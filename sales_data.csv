@@ -1,0 +1,399 @@
+Order ID,Sale ID,Date,Order,Transaction type,Sale type,Sales channel,POS location,Billing country,Billing region,Billing city,Shipping country,Shipping region,Shipping city,Product type,Product vendor,Product,Variant,Variant SKU,Net quantity,Gross sales,Discounts,Returns,Net sales,Shipping,Taxes,Total sales
+5.5398E+12,1.7401E+13,2024-01-01T14:06:18-05:00,#2069,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown jeans,,,1,5,0,0,5,0,0.3,5.3
+5.5398E+12,1.7401E+13,2024-01-01T14:08:17-05:00,#2070,product,order,Point of Sale,Boutique Site,,,,,,,,,Black n white body suit,,,1,5,0,0,5,0,0.3,5.3
+5.5398E+12,1.7401E+13,2024-01-01T14:08:17-05:00,#2070,product,order,Point of Sale,Boutique Site,,,,,,,,,Black halter body suit,,,1,5,0,0,5,0,0.3,5.3
+5.53997E+12,1.74015E+13,2024-01-01T16:50:20-05:00,#2071,product,order,Point of Sale,Boutique Site,,,,,,,,,Sequence dress brown white tan,,,1,9,0,0,9,0,0.54,9.54
+5.53997E+12,1.74015E+13,2024-01-01T16:50:20-05:00,#2071,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue wool dress with belt,,,1,9,0,0,9,0,0.54,9.54
+5.54117E+12,1.74046E+13,2024-01-02T12:36:31-05:00,#2072,product,order,Point of Sale,Boutique Site,,,,,,,,,Bodysuit,,,1,5,0,0,5,0,0.3,5.3
+5.54122E+12,1.74047E+13,2024-01-02T13:09:15-05:00,#2073,product,order,Point of Sale,Boutique Site,,,,,,,,,Pants,,,1,5,0,0,5,0,0.3,5.3
+5.54142E+12,1.74053E+13,2024-01-02T15:32:48-05:00,#2074,product,order,Point of Sale,Boutique Site,,,,,,,,,Red Dress,,,1,5,0,0,5,0,0.3,5.3
+5.54145E+12,1.74054E+13,2024-01-02T16:01:33-05:00,#2075,product,order,Point of Sale,Boutique Site,,,,,,,,,Black dress,,,1,9,0,0,9,0,0.54,9.54
+5.5415E+12,1.74055E+13,2024-01-02T16:33:11-05:00,#6-1119,product,order,Point of Sale,Boutique Site,,,,,,,,,Tan jeans,,,1,5,0,0,5,0,0.3,5.3
+5.54153E+12,1.74056E+13,2024-01-02T16:58:12-05:00,#6-1120,product,order,Point of Sale,Boutique Site,,,,,,,,,Green shirt dress,,,1,7,0,0,7,0,0.42,7.42
+5.54422E+12,1.74124E+13,2024-01-04T13:57:09-05:00,#2078,product,order,Point of Sale,Boutique Site,,,,,,,,,Black Romper Shorts,,,1,9,0,0,9,0,0.54,9.54
+5.5444E+12,1.74129E+13,2024-01-04T16:28:15-05:00,#2079,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue feather dress,,,1,9,0,0,9,0,0.54,9.54
+5.54441E+12,1.74129E+13,2024-01-04T16:30:53-05:00,#2080,product,order,Point of Sale,Boutique Site,,,,,,,,,Black rose pearl choker,,,1,10,0,0,10,0,0.6,10.6
+5.5456E+12,1.7416E+13,2024-01-05T12:56:16-05:00,#2081,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue feather dress,,,1,9,0,0,9,0,0.54,9.54
+5.54593E+12,1.74169E+13,2024-01-05T16:59:47-05:00,#2082,product,order,Point of Sale,Boutique Site,,,,,,,,,Checkered scarf,,,1,14.99,0,0,14.99,0,0.9,15.89
+5.54603E+12,1.74172E+13,2024-01-05T18:44:02-05:00,#2083,product,order,Point of Sale,Boutique Site,,,,,,,,,Multi layered tiered dress,,,1,7,0,0,7,0,0.42,7.42
+5.54717E+12,1.742E+13,2024-01-06T14:12:18-05:00,#2084,product,order,Point of Sale,Boutique Site,,,,,,,,,Grey Hat,,,1,15,-3,0,12,0,0.72,12.72
+5.5472E+12,1.74201E+13,2024-01-06T14:32:54-05:00,#2085,product,order,Point of Sale,Boutique Site,,,,,,,,,Blush Floral Dress - Yolanda,,,1,5,0,0,5,0,0.3,5.3
+5.5472E+12,1.74201E+13,2024-01-06T14:32:54-05:00,#2085,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue Jean Dress - Yolanda,,,1,5,0,0,5,0,0.3,5.3
+5.5472E+12,1.74201E+13,2024-01-06T14:32:54-05:00,#2085,product,order,Point of Sale,Boutique Site,,,,,,,,,Thigh High Stockings - Yolanda,,,2,10,0,0,10,0,0.6,10.6
+5.5472E+12,1.74201E+13,2024-01-06T14:39:54-05:00,#2086,product,order,Point of Sale,Boutique Site,,,,,,,,,Pearl Gold Necklace - Yolanda,,,1,14.99,0,0,14.99,0,0.9,15.89
+5.5472E+12,1.74201E+13,2024-01-06T14:39:54-05:00,#2086,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue Dress - Yolanda,,,1,7,0,0,7,0,0.42,7.42
+5.5472E+12,1.74201E+13,2024-01-06T14:39:54-05:00,#2086,product,order,Point of Sale,Boutique Site,,,,,,,,,Vera Gold Bracelet - Yolanda,,,1,18,0,0,18,0,1.08,19.08
+5.54721E+12,1.74201E+13,2024-01-06T14:47:29-05:00,#2087,product,order,Point of Sale,Boutique Site,,,,,,,,,Grey Hat - Yolanda,,,1,15,0,0,15,0,0.9,15.9
+5.54721E+12,1.74201E+13,2024-01-06T14:47:29-05:00,#2087,product,order,Point of Sale,Boutique Site,,,,,,,,,Teal Dress - Yolanda,,,1,7,0,0,7,0,0.42,7.42
+5.54721E+12,1.74201E+13,2024-01-06T14:47:29-05:00,#2087,product,order,Point of Sale,Boutique Site,,,,,,,,,Black Dress - Yolanda,,,1,9,0,0,9,0,0.54,9.54
+5.54723E+12,1.74202E+13,2024-01-06T15:04:40-05:00,#2088,product,order,Point of Sale,Boutique Site,,,,,,,,,Black 2 piece Dress - Yolanda,,,1,9,0,0,9,0,0.54,9.54
+5.54723E+12,1.74202E+13,2024-01-06T15:04:40-05:00,#2088,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue Dress - Yolanda,,,1,9,0,0,9,0,0.54,9.54
+5.54723E+12,1.74202E+13,2024-01-06T15:04:40-05:00,#2088,product,order,Point of Sale,Boutique Site,,,,,,,,,White Floral Pin - Yolanda,,,1,16,0,0,16,0,0.96,16.96
+5.54737E+12,1.74205E+13,2024-01-06T16:58:34-05:00,#2089,product,order,Point of Sale,Boutique Site,,,,,,,,,Candy color pant jumpsuit,,,1,5,-5,0,0,0,0,0
+5.54828E+12,1.74228E+13,2024-01-07T11:52:50-05:00,#2090,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue yoga,,,1,7,0,0,7,0,0.42,7.42
+5.54828E+12,1.74228E+13,2024-01-07T11:52:50-05:00,#2090,product,order,Point of Sale,Boutique Site,,,,,,,,,Black white dress,,,1,9,0,0,9,0,0.54,9.54
+5.54828E+12,1.74228E+13,2024-01-07T11:54:17-05:00,#2091,product,order,Point of Sale,Boutique Site,,,,,,,,,Black stretch pants,,,1,7,0,0,7,0,0.42,7.42
+5.54844E+12,1.74233E+13,2024-01-07T14:06:00-05:00,#2092,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown charm bracelet,,,1,5,0,0,5,0,0.3,5.3
+5.54846E+12,1.74233E+13,2024-01-07T14:15:56-05:00,#2093,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange jump suit,,,1,5,0,0,5,0,0.3,5.3
+5.54854E+12,1.74235E+13,2024-01-07T15:22:30-05:00,#2094,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue lace dress,,,1,9,0,0,9,0,0.54,9.54
+5.54854E+12,1.74235E+13,2024-01-07T15:22:30-05:00,#2094,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink yellow shirt,,,1,5,0,0,5,0,0.3,5.3
+5.54856E+12,1.74235E+13,2024-01-07T15:34:57-05:00,#2095,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown sweater dress,,,1,7,0,0,7,0,0.42,7.42
+5.54869E+12,1.74239E+13,2024-01-07T17:36:42-05:00,#2096,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown pants,,,1,5,0,0,5,0,0.3,5.3
+5.54869E+12,1.74239E+13,2024-01-07T17:36:42-05:00,#2096,product,order,Point of Sale,Boutique Site,,,,,,,,,Black body suit,,,1,9,0,0,9,0,0.54,9.54
+5.54869E+12,1.74239E+13,2024-01-07T17:36:42-05:00,#2096,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue wool dress with belt,,,1,9,0,0,9,0,0.54,9.54
+5.55204E+12,1.74323E+13,2024-01-10T06:23:28-05:00,#2097,product,order,Online Store,,United States,Ohio,Cincinnati,United States,Ohio,Blue Ash,,Inspired Fashion 40,4 Pieces for $24 Mystery Box - Inspired Box,Large,,1,24,0,0,24,0,0,24
+5.55204E+12,1.74323E+13,2024-01-10T06:23:28-05:00,#2097,shipping,order,Online Store,,United States,Ohio,Cincinnati,United States,Ohio,Blue Ash,,,,,,0,0,0,0,0,7.9,0,7.9
+5.55229E+12,1.74329E+13,2024-01-10T10:27:34-05:00,#2098,product,order,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,sale,Inspired Fashion 40,Sale,Large,,1,9,0,0,9,0,0,9
+5.55229E+12,1.74329E+13,2024-01-10T10:27:34-05:00,#2098,shipping,order,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,,,,,,0,0,0,0,0,7.9,0,7.9
+5.55229E+12,1.74329E+13,2024-01-10T10:27:34-05:00,#2098,product,order,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,Athletics,Inspired Fashion 40,SALE,2XL,,1,9,0,0,9,0,0,9
+5.55229E+12,1.74329E+13,2024-01-10T10:27:34-05:00,#2098,product,order,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,,Inspired Fashion 40,4 Pieces for $24 Mystery Box - Inspired Box,Large,,1,24,0,0,24,0,0,24
+5.55392E+12,1.74369E+13,2024-01-11T14:09:46-05:00,#2099,product,order,Point of Sale,Boutique Site,,,,,,,,,White top pant jogging suit,,,1,7,0,0,7,0,0.42,7.42
+5.55392E+12,1.74369E+13,2024-01-11T14:09:46-05:00,#2099,product,order,Point of Sale,Boutique Site,,,,,,,,,Yellow dress 1X long sleeve,,,1,9,0,0,9,0,0.54,9.54
+5.55392E+12,1.74369E+13,2024-01-11T14:09:46-05:00,#2099,product,order,Point of Sale,Boutique Site,,,,,,,,,Lace top/blue greenish,,,1,5,0,0,5,0,0.3,5.3
+5.55405E+12,1.74372E+13,2024-01-11T15:57:26-05:00,#2100,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue jeans,,,1,5,0,0,5,0,0.3,5.3
+5.55515E+12,1.74399E+13,2024-01-12T11:55:17-05:00,#2101,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink flower lace dress,,,1,9,0,0,9,0,0.54,9.54
+5.55515E+12,1.74399E+13,2024-01-12T11:55:17-05:00,#2101,product,order,Point of Sale,Boutique Site,,,,,,,,,Red white black dress,,,1,5,0,0,5,0,0.3,5.3
+5.55515E+12,1.74399E+13,2024-01-12T11:55:17-05:00,#2101,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue/green set,,,1,7,0,0,7,0,0.42,7.42
+5.55515E+12,1.74399E+13,2024-01-12T11:55:17-05:00,#2101,product,order,Point of Sale,Boutique Site,,,,,,,,,Yellow dress lace,,,1,9,0,0,9,0,0.54,9.54
+5.55537E+12,1.74405E+13,2024-01-12T14:49:24-05:00,#2102,product,order,Point of Sale,Boutique Site,,,,,,,,,Maroon top bottom stretch,,,1,7,0,0,7,0,0.42,7.42
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Leaf spaghetti strap autumn color,,,1,5,0,0,5,0,0.3,5.3
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue stretch pants,,,1,5,0,0,5,0,0.3,5.3
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Zebra brown black white jumpsuit,,,1,9,0,0,9,0,0.54,9.54
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,White top pant suit,,,1,7,0,0,7,0,0.42,7.42
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown popcorn style flare top,,,1,15,0,0,15,0,0.9,15.9
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Silver pants,,,1,7,0,0,7,0,0.42,7.42
+5.55553E+12,1.74409E+13,2024-01-12T17:13:16-05:00,#2103,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue mesh stretch dress,,,1,5,0,0,5,0,0.3,5.3
+5.55229E+12,1.74446E+13,2024-01-12T18:45:22-05:00,#2098,unknown,return,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,,,,,,0,0,0,-9,-9,0,0,-9
+5.55229E+12,1.74412E+13,2024-01-12T18:45:22-05:00,#2098,product,return,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,sale,Inspired Fashion 40,Sale,Large,,-1,0,0,-9,-9,0,0,-9
+5.55229E+12,1.74412E+13,2024-01-12T18:45:22-05:00,#2098,unknown,return,Online Store,,United States,Arkansas,Bryant,United States,Arkansas,Bryant,,,,,,0,0,0,9,9,0,0,9
+5.55648E+12,1.7443E+13,2024-01-13T10:27:44-05:00,#2104,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink earrings,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55649E+12,1.74431E+13,2024-01-13T10:30:43-05:00,#2105,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink and green earrings,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55649E+12,1.74431E+13,2024-01-13T10:30:43-05:00,#2105,product,order,Point of Sale,Boutique Site,,,,,,,,,Scarf,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55649E+12,1.74431E+13,2024-01-13T10:32:45-05:00,#2106,product,order,Point of Sale,Boutique Site,,,,,,,,,Scarf,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.5565E+12,1.74431E+13,2024-01-13T10:43:34-05:00,#2107,product,order,Point of Sale,Boutique Site,,,,,,,,,Scarf,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55652E+12,1.74431E+13,2024-01-13T10:51:25-05:00,#2108,product,order,Point of Sale,Boutique Site,,,,,,,,,Bow pin,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55652E+12,1.74431E+13,2024-01-13T10:53:28-05:00,#2109,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Paisley Pant Set - Curvy,XL,,1,74.95,0,0,74.95,0,4.5,79.45
+5.55656E+12,1.74432E+13,2024-01-13T11:25:21-05:00,#2110,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink skirt,,,1,42.99,0,0,42.99,0,2.58,45.57
+5.55656E+12,1.74432E+13,2024-01-13T11:25:21-05:00,#2110,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Black Satin Silk Dress - Curvy,XL,,1,59.49,-10,0,49.49,0,2.97,52.46
+5.55657E+12,1.74432E+13,2024-01-13T11:27:43-05:00,#2111,product,order,Point of Sale,Boutique Site,,,,,,,,,Scarf,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55659E+12,1.74433E+13,2024-01-13T11:46:35-05:00,#2112,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55659E+12,1.74433E+13,2024-01-13T11:49:21-05:00,#2113,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Mulla,Flower Belt,Small,FM78,1,30,-10.92,0,19.08,0,1.14,20.22
+5.5566E+12,1.74434E+13,2024-01-13T11:57:48-05:00,#2114,product,order,Point of Sale,Boutique Site,,,,,,,,,Scarf,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55662E+12,1.74434E+13,2024-01-13T12:10:56-05:00,#2115,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink coat,,,1,95,0,0,95,0,5.7,100.7
+5.55662E+12,1.74434E+13,2024-01-13T12:11:41-05:00,#2116,product,order,Point of Sale,Boutique Site,,,,,,,,,Green earrings,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55663E+12,1.74434E+13,2024-01-13T12:15:29-05:00,#2117,product,order,Point of Sale,Boutique Site,,,,,,,,,Gray bracelet,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55666E+12,1.74435E+13,2024-01-13T12:45:26-05:00,#2118,product,order,Point of Sale,Boutique Site,,,,,,,,,Black pearl shirt  L,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55668E+12,1.74436E+13,2024-01-13T12:59:30-05:00,#2119,product,order,Point of Sale,Boutique Site,,,,,,,,,Gloves,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.5567E+12,1.74436E+13,2024-01-13T13:15:19-05:00,#2120,product,order,Point of Sale,Boutique Site,,,,,,,,,Cream faux leather,,,1,37.5,0,0,37.5,0,2.25,39.75
+5.5567E+12,1.74436E+13,2024-01-13T13:15:19-05:00,#2120,product,order,Point of Sale,Boutique Site,,,,,,,,,Cream faux leather shirt m,,,1,37.5,0,0,37.5,0,2.25,39.75
+5.55671E+12,1.74436E+13,2024-01-13T13:25:18-05:00,#2121,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue pearl shirt xl,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55671E+12,1.74436E+13,2024-01-13T13:25:18-05:00,#2121,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink skirt xl,,,1,42.5,0,0,42.5,0,2.55,45.05
+5.55673E+12,1.74437E+13,2024-01-13T13:36:31-05:00,#2122,product,order,Point of Sale,Boutique Site,,,,,,,,,Pearl shirt,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55673E+12,1.74437E+13,2024-01-13T13:36:31-05:00,#2122,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Puffy Sleeve Shift Dress,Large / Black,,1,89.99,0,0,89.99,0,5.4,95.39
+5.55673E+12,1.74437E+13,2024-01-13T13:36:31-05:00,#2122,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Mulla,Flower Belt,Medium,FM79,1,30,-10.92,0,19.08,0,1.14,20.22
+5.55675E+12,1.74437E+13,2024-01-13T13:49:28-05:00,#2123,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Mulla,BLACK ORGANZA FLOWER BROOCH Accessory,,FM77,1,20,-0.92,0,19.08,0,1.14,20.22
+5.55676E+12,1.74438E+13,2024-01-13T14:00:18-05:00,#2124,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue blazer skirt set,,,1,5,0,0,5,0,0.3,5.3
+5.55676E+12,1.74438E+13,2024-01-13T14:00:18-05:00,#2124,product,order,Point of Sale,Boutique Site,,,,,,,,,Black dress off shoulder flare sleeve,,,1,95,0,0,95,0,5.7,100.7
+5.55677E+12,1.74438E+13,2024-01-13T14:07:25-05:00,#2125,product,order,Point of Sale,Boutique Site,,,,,,,,,Black pearl shirt xl,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55678E+12,1.74438E+13,2024-01-13T14:11:36-05:00,#2126,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue pearl shirt m,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55679E+12,1.74438E+13,2024-01-13T14:19:28-05:00,#2127,product,order,Point of Sale,Boutique Site,,,,,,,,,Black pearl shirt s,,,1,19.08,0,0,19.08,0,1.14,20.22
+5.55681E+12,1.74439E+13,2024-01-13T14:36:26-05:00,#2128,product,order,Point of Sale,Boutique Site,,,,,,,Earrings,Inspired Fashion 40,Cream Flower Tassel Earrings,,,1,24.99,-5.91,0,19.08,0,1.14,20.22
+5.55686E+12,1.7444E+13,2024-01-13T15:12:52-05:00,#2129,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue green white dress,,,1,5,0,0,5,0,0.3,5.3
+5.55686E+12,1.7444E+13,2024-01-13T15:12:52-05:00,#2129,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue sweater top,,,1,5,0,0,5,0,0.3,5.3
+5.55696E+12,1.74442E+13,2024-01-13T16:24:55-05:00,#2130,product,order,Point of Sale,Boutique Site,,,,,,,,,Silver r&j necklace,,,1,24,0,0,24,0,1.44,25.44
+5.55698E+12,1.74443E+13,2024-01-13T16:41:06-05:00,#2131,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink lace dress,,,1,9,0,0,9,0,0.54,9.54
+5.55698E+12,1.74443E+13,2024-01-13T16:41:06-05:00,#2131,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown sweater dress,,,1,7,0,0,7,0,0.42,7.42
+5.55698E+12,1.74443E+13,2024-01-13T16:44:36-05:00,#2132,product,order,Point of Sale,Boutique Site,,,,,,,,,White rose choker,,,1,5,0,0,5,0,0.3,5.3
+5.56115E+12,1.7454E+13,2024-01-16T13:31:25-05:00,#2133,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue denim white,,,1,9,0,0,9,0,0.54,9.54
+5.56117E+12,1.7454E+13,2024-01-16T13:43:49-05:00,#2134,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange body suit,,,1,5,0,0,5,0,0.3,5.3
+5.56117E+12,1.7454E+13,2024-01-16T13:43:49-05:00,#2134,product,order,Point of Sale,Boutique Site,,,,,,,,,Brownpearl skirt,,,1,32.99,-6.6,0,26.39,0,1.58,27.97
+5.56704E+12,1.74679E+13,2024-01-20T11:48:15-05:00,#2135,product,order,Point of Sale,Boutique Site,,,,,,,,,Green romper,,,1,7,0,0,7,0,0.42,7.42
+5.56707E+12,1.74679E+13,2024-01-20T12:02:44-05:00,#2136,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink white yellow blouse w/ metal ring on neck,,,1,7,0,0,7,0,0.42,7.42
+5.57202E+12,1.74796E+13,2024-01-23T13:51:12-05:00,#2137,product,order,Point of Sale,Boutique Site,,,,,,,,,Black white jump suit,,,1,5,0,0,5,0,0.3,5.3
+5.57202E+12,1.74796E+13,2024-01-23T13:51:12-05:00,#2137,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue/ cheeta print sheen jump suit,,,1,7,0,0,7,0,0.42,7.42
+5.57202E+12,1.74796E+13,2024-01-23T13:51:12-05:00,#2137,product,order,Point of Sale,Boutique Site,,,,,,,,,Grey jump suit,,,1,5,0,0,5,0,0.3,5.3
+5.57202E+12,1.74796E+13,2024-01-23T13:51:12-05:00,#2137,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue lace dress,,,2,14,0,0,14,0,0.84,14.84
+5.57671E+12,1.74901E+13,2024-01-26T13:34:46-05:00,#2138,product,order,Point of Sale,Boutique Site,,,,,,,,,Red leopard dress,,,1,7,0,0,7,0,0.42,7.42
+5.57671E+12,1.74901E+13,2024-01-26T13:34:46-05:00,#2138,product,order,Point of Sale,Boutique Site,,,,,,,,,Candy stripped jump suit,,,1,5,-5,0,0,0,0,0
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue/grey striped romper,,,1,9,0,0,9,0,0.54,9.54
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink redy yellow skirt with top,,,1,5,0,0,5,0,0.3,5.3
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Floral style top,,,1,5,0,0,5,0,0.3,5.3
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue jeans with cuff,,,1,7,0,0,7,0,0.42,7.42
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Green/olive romper,,,1,9,0,0,9,0,0.54,9.54
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown jeans,,,1,5,0,0,5,0,0.3,5.3
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Green pant suit with top green/gold,,,1,9,0,0,9,0,0.54,9.54
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink romper with train,,,1,5,0,0,5,0,0.3,5.3
+5.57827E+12,1.74935E+13,2024-01-27T12:32:02-05:00,#2139,product,order,Point of Sale,Boutique Site,,,,,,,,,White jumper,,,1,5,0,0,5,0,0.3,5.3
+5.5786E+12,1.74943E+13,2024-01-27T16:39:16-05:00,#2140,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue wool zip up dress,,,1,9,0,0,9,0,0.54,9.54
+5.5786E+12,1.74943E+13,2024-01-27T16:39:16-05:00,#2140,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange body suit,,,1,5,0,0,5,0,0.3,5.3
+5.5786E+12,1.74943E+13,2024-01-27T16:39:16-05:00,#2140,product,order,Point of Sale,Boutique Site,,,,,,,,,Grey white stripped roma,,,1,7,0,0,7,0,0.42,7.42
+5.5786E+12,1.74943E+13,2024-01-27T16:39:16-05:00,#2140,product,order,Point of Sale,Boutique Site,,,,,,,,,Green/gold pant suit,,,1,9,0,0,9,0,0.54,9.54
+5.5786E+12,1.74943E+13,2024-01-27T16:39:16-05:00,#2140,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange dress,,,1,5,0,0,5,0,0.3,5.3
+5.57861E+12,1.74944E+13,2024-01-27T16:51:15-05:00,#2141,product,order,Point of Sale,Boutique Site,,,,,,,,,Black business romper,,,1,9,0,0,9,0,0.54,9.54
+5.57863E+12,1.74944E+13,2024-01-27T17:03:42-05:00,#2142,product,order,Point of Sale,Boutique Site,,,,,,,,,Black puffy sleeve dress,,,1,89.99,-45,0,44.99,0,2.7,47.69
+5.57863E+12,1.74944E+13,2024-01-27T17:03:42-05:00,#2142,product,order,Point of Sale,Boutique Site,,,,,,,,,Black leather pants,,,1,9,0,0,9,0,0.54,9.54
+5.57863E+12,1.74944E+13,2024-01-27T17:03:42-05:00,#2142,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink top,,,1,5,0,0,5,0,0.3,5.3
+5.57863E+12,1.74944E+13,2024-01-27T17:03:42-05:00,#2142,product,order,Point of Sale,Boutique Site,,,,,,,,,Red turtle neck,,,1,5,0,0,5,0,0.3,5.3
+5.58284E+12,1.75039E+13,2024-01-30T12:16:22-05:00,#2143,product,order,Point of Sale,Boutique Site,,,,,,,blazers,Inspired Fashion 40,FUNNY COWGIRL BARBIE - Hot Pink Blazer,Small,SJA100,1,74.99,-72.5,0,2.49,0,0.15,2.64
+5.592E+12,1.75283E+13,2024-02-03T10:25:17-05:00,#2144,product,order,Point of Sale,Boutique Site,,,,,,,,,Red necklace,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.59206E+12,1.75285E+13,2024-02-03T10:54:39-05:00,#2145,product,order,Point of Sale,Boutique Site,,,,,,,Earrings,Inspired Fashion 40,Long Pearl Earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.5921E+12,1.75286E+13,2024-02-03T11:11:21-05:00,#2146,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,24,-4.8,0,19.2,0,1.15,20.35
+5.5921E+12,1.75286E+13,2024-02-03T11:11:21-05:00,#2146,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Inspired Fashion 40,Fashion Rings,Charms Ring,Rings,1,24.99,-4.99,0,20,0,1.2,21.2
+5.59211E+12,1.75286E+13,2024-02-03T11:13:24-05:00,#2147,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Black Satin Silk Dress - Curvy,3XL,41,1,59.49,-11.89,0,47.6,0,2.86,50.46
+5.59214E+12,1.75287E+13,2024-02-03T11:26:14-05:00,#2148,product,order,Point of Sale,Boutique Site,,,,,,,Earrings,Inspired Fashion 40,Long Pearl Earrings,,,1,24.99,-7,0,17.99,0,1.08,19.07
+5.59231E+12,1.75292E+13,2024-02-03T12:33:25-05:00,#2149,product,order,Point of Sale,Boutique Site,,,,,,,,,Red earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.59231E+12,1.75292E+13,2024-02-03T12:35:28-05:00,#2150,product,order,Point of Sale,Boutique Site,,,,,,,,Melrose with Love,MOCK NECK FITTED MIDI DRESS,L / BLACK,CAD4250,1,39.99,-1.99,0,38,0,2.28,40.28
+5.59231E+12,1.75292E+13,2024-02-03T12:35:28-05:00,#2150,product,order,Point of Sale,Boutique Site,,,,,,,,,Red earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.59233E+12,1.75292E+13,2024-02-03T12:41:15-05:00,#2151,product,order,Point of Sale,Boutique Site,,,,,,,Apparel & Accessories,Evenuel,Vegan Leather Peplum Top in Hunter Green,Medium / Hunter Green,18,1,45.99,0,0,45.99,0,2.76,48.75
+5.59233E+12,1.75292E+13,2024-02-03T12:41:15-05:00,#2151,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Mardi Gras Pants,Large,80,1,41.99,0,0,41.99,0,2.52,44.51
+5.59236E+12,1.75293E+13,2024-02-03T12:52:48-05:00,#2152,product,order,Point of Sale,Boutique Site,,,,,,,,Melrose with Love,MOCK NECK FITTED MIDI DRESS,M / BLACK,CAD4250,1,39.99,-1.99,0,38,0,2.28,40.28
+5.59236E+12,1.75293E+13,2024-02-03T12:52:48-05:00,#2152,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Inspired Fashion 40,Brown Puffy Sleeve Shirt,Medium,5,1,27.99,0,0,27.99,0,1.68,29.67
+5.59239E+12,1.75294E+13,2024-02-03T13:04:31-05:00,#2153,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Cuffed Jeans,M,60,1,42.99,-35.99,0,7,0,0.42,7.42
+5.5924E+12,1.75294E+13,2024-02-03T13:08:50-05:00,#2154,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Inspired Fashion 40,Brown Puffy Sleeve Shirt,Large,5,1,27.99,0,0,27.99,0,1.68,29.67
+5.59241E+12,1.75294E+13,2024-02-03T13:12:35-05:00,#2155,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Mine Your Business Earrings,,,1,18.99,0,0,18.99,0,1.14,20.13
+5.59243E+12,1.75295E+13,2024-02-03T13:19:51-05:00,#2156,product,order,Point of Sale,Boutique Site,,,,,,,,,Gold earrings,,,1,40,-8,0,32,0,1.92,33.92
+5.59245E+12,1.75296E+13,2024-02-03T13:29:35-05:00,#2157,product,order,Point of Sale,Boutique Site,,,,,,,,,Red jumpsuir,,,1,109,-21.8,0,87.2,0,5.23,92.43
+5.59246E+12,1.75296E+13,2024-02-03T13:33:34-05:00,#2158,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Red Fascinator,,,1,49.99,0,0,49.99,0,3,52.99
+5.59247E+12,1.75296E+13,2024-02-03T13:39:17-05:00,#2159,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Mulla,BLACK ORGANZA FLOWER BROOCH Accessory,,FM77,1,20,0,0,20,0,1.2,21.2
+5.59255E+12,1.75299E+13,2024-02-03T14:10:37-05:00,#2160,product,order,Point of Sale,Boutique Site,,,,,,,,,Cuff jeans,,,1,7,0,0,7,0,0.42,7.42
+5.59255E+12,1.75299E+13,2024-02-03T14:10:37-05:00,#2160,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Sale,small,SP330,1,9,0,0,9,0,0.54,9.54
+5.59255E+12,1.75299E+13,2024-02-03T14:10:37-05:00,#2160,product,order,Point of Sale,Boutique Site,,,,,,,,,Red pants with wide leg string,,,1,7,0,0,7,0,0.42,7.42
+5.59257E+12,1.75299E+13,2024-02-03T14:16:58-05:00,#2161,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Red Velvet Gloves,,,1,27.99,-0.83,0,27.16,0,1.63,28.79
+5.59259E+12,1.753E+13,2024-02-03T14:25:36-05:00,#2162,product,order,Point of Sale,Boutique Site,,,,,,,,,Tan bracelet,,,1,15,0,0,15,0,0.9,15.9
+5.59642E+12,1.75405E+13,2024-02-06T13:06:13-05:00,#2163,product,order,Point of Sale,Boutique Site,United States,Kentucky,Covington,,,,,,White pant suit,,,1,55,0,0,55,0,3.3,58.3
+5.59648E+12,1.75407E+13,2024-02-06T13:57:27-05:00,#2164,product,order,Point of Sale,Boutique Site,,,,,,,Jumpsuit,Inspired Fashion 40,Sale,large,SJM200,1,9,0,0,9,0,0.54,9.54
+5.59648E+12,1.75407E+13,2024-02-06T13:57:27-05:00,#2164,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink swirl jeans,,,1,7,0,0,7,0,0.42,7.42
+5.59648E+12,1.75407E+13,2024-02-06T13:57:27-05:00,#2164,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange body suit,,,1,5,0,0,5,0,0.3,5.3
+5.59816E+12,1.75441E+13,2024-02-07T13:32:09-05:00,#2165,product,order,Point of Sale,Boutique Site,,,,,,,sale,Inspired Fashion 40,Sale,Large,SP650,1,26.5,-26.5,0,0,0,0,0
+5.59969E+12,1.75472E+13,2024-02-08T11:53:24-05:00,#2166,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue jeans with belt,,,1,5,0,0,5,0,0.3,5.3
+5.59969E+12,1.75472E+13,2024-02-08T11:53:24-05:00,#2166,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Inspired Fashion 40,Sale,1XL,BB100,1,9,0,0,9,0,0.54,9.54
+5.59976E+12,1.75474E+13,2024-02-08T12:53:33-05:00,#2167,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Satin Wide Leg Pants,Large / Black,P500,1,79.95,-79.95,0,0,0,0,0
+5.60124E+12,1.75506E+13,2024-02-09T11:33:07-05:00,#2168,product,order,Point of Sale,Boutique Site,,,,,,,,,White rose choker/belt,,,1,10,0,0,10,0,0.6,10.6
+5.60124E+12,1.75506E+13,2024-02-09T11:33:07-05:00,#2168,product,order,Point of Sale,Boutique Site,,,,,,,,,Red flower skirt with top,,,1,7,0,0,7,0,0.42,7.42
+5.60124E+12,1.75506E+13,2024-02-09T11:33:07-05:00,#2168,product,order,Point of Sale,Boutique Site,,,,,,,,,White tube dress,,,1,5,0,0,5,0,0.3,5.3
+5.60124E+12,1.75506E+13,2024-02-09T11:33:07-05:00,#2168,product,order,Point of Sale,Boutique Site,,,,,,,,,Candy stripped jumper,,,1,5,-5,0,0,0,0,0
+5.60132E+12,1.75508E+13,2024-02-09T12:26:19-05:00,#2169,product,order,Point of Sale,Boutique Site,,,,,,,,,Cheerleader key ring,,,1,15,0,0,15,0,0.9,15.9
+5.60136E+12,1.75509E+13,2024-02-09T12:59:29-05:00,#2170,product,order,Point of Sale,Boutique Site,,,,,,,,,Orange belly shirt,,,1,5,0,0,5,0,0.3,5.3
+5.60136E+12,1.75509E+13,2024-02-09T12:59:29-05:00,#2170,product,order,Point of Sale,Boutique Site,,,,,,,,,Red/pink dress with mid section peekaboo,,,1,5,0,0,5,0,0.3,5.3
+5.60136E+12,1.75509E+13,2024-02-09T12:59:29-05:00,#2170,product,order,Point of Sale,Boutique Site,,,,,,,Dresses,Inspired Fashion 40,Sale,Large,SD2000,1,9,0,0,9,0,0.54,9.54
+5.60136E+12,1.75509E+13,2024-02-09T12:59:29-05:00,#2170,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue/teal bodysuit jumper,,,1,5,-5,0,0,0,0,0
+5.60136E+12,1.75509E+13,2024-02-09T12:59:29-05:00,#2170,product,order,Point of Sale,Boutique Site,,,,,,,sale,Inspired Fashion 40,Sale,Medium,SB100,1,9,0,0,9,0,0.54,9.54
+5.60148E+12,1.75512E+13,2024-02-09T14:40:26-05:00,#2171,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown jeans,,,1,5,0,0,5,0,0.3,5.3
+5.60877E+12,1.75688E+13,2024-02-14T16:07:41-05:00,#2172,product,order,Point of Sale,Boutique Site,,,,,,,,,Black white diamon design dress,,,1,35,-3.5,0,31.5,0,1.89,33.39
+5.61027E+12,1.75722E+13,2024-02-15T15:12:44-05:00,#2173,product,order,Point of Sale,Boutique Site,,,,,,,,,Shorts jeans,,,1,5,0,0,5,0,0.3,5.3
+5.61027E+12,1.75722E+13,2024-02-15T15:12:44-05:00,#2173,product,order,Point of Sale,Boutique Site,,,,,,,,,Jean shorts,,,1,5,0,0,5,0,0.3,5.3
+5.61027E+12,1.75722E+13,2024-02-15T15:12:44-05:00,#2173,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink white star design body suit,,,1,5,0,0,5,0,0.3,5.3
+5.61027E+12,1.75722E+13,2024-02-15T15:12:44-05:00,#2173,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Inspired Fashion 40,Sale,medium,SKS100,1,57,-48,0,9,0,0.54,9.54
+5.61027E+12,1.75722E+13,2024-02-15T15:12:44-05:00,#2173,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown braclet,,,1,5,0,0,5,0,0.3,5.3
+5.61921E+12,1.75925E+13,2024-02-21T10:44:02-05:00,#2174,product,order,Point of Sale,Boutique Site,,,,,,,,,Lipstick,,,1,5,0,0,5,0,0.3,5.3
+5.61921E+12,1.75925E+13,2024-02-21T10:44:02-05:00,#2174,product,order,Point of Sale,Boutique Site,,,,,,,,,Red earrings,,,1,24.99,-4.99,0,20,0,1.2,21.2
+5.61923E+12,1.75925E+13,2024-02-21T10:59:34-05:00,#2175,product,order,Point of Sale,Boutique Site,,,,,,,,,Lipstick,,,1,5,0,0,5,0,0.3,5.3
+5.61923E+12,1.75925E+13,2024-02-21T10:59:34-05:00,#2175,product,order,Point of Sale,Boutique Site,,,,,,,Bracelet,Inspired Fashion 40,Flower Bracelet,Pink,J11,1,27.99,-5.59,0,22.4,0,1.34,23.74
+5.61927E+12,1.75926E+13,2024-02-21T11:41:11-05:00,#2176,product,order,Point of Sale,Boutique Site,,,,,,,,,Red earrings,,,1,24.99,-4.99,0,20,0,1.2,21.2
+5.61932E+12,1.75928E+13,2024-02-21T12:25:09-05:00,#2177,product,order,Point of Sale,Boutique Site,,,,,,,,,RnJ bracelet,,,1,22,0,0,22,0,1.32,23.32
+5.61932E+12,1.75928E+13,2024-02-21T12:33:39-05:00,#2178,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Multi-color Earrings,,,1,24.99,-5,0,19.99,0,1.2,21.19
+5.61932E+12,1.75928E+13,2024-02-21T12:33:39-05:00,#2178,product,order,Point of Sale,Boutique Site,,,,,,,,,Gold purse earrings,,,1,24.99,-4.99,0,20,0,1.2,21.2
+5.61939E+12,1.7593E+13,2024-02-21T13:27:24-05:00,#2179,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Inspired Fashion 40,Black Ruffle Jacket,Medium,119,1,119,-25,0,94,0,5.64,99.64
+5.61939E+12,1.7593E+13,2024-02-21T13:27:24-05:00,#2179,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Sans Souci,Red Bow Tie Shirt,M / Red,2,1,32.99,0,0,32.99,0,1.98,34.97
+5.61939E+12,1.7593E+13,2024-02-21T13:27:24-05:00,#2179,product,order,Point of Sale,Boutique Site,,,,,,,,,Lipstick,,,1,5,0,0,5,0,0.3,5.3
+5.61939E+12,1.7593E+13,2024-02-21T13:27:24-05:00,#2179,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Mustard Silk Dress,Medium,82,1,79.88,-15.97,0,63.91,0,3.83,67.74
+5.61939E+12,1.7593E+13,2024-02-21T13:27:24-05:00,#2179,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Tulle Halter Top,Medium,7,1,79.99,-79.99,0,0,0,0,0
+5.61939E+12,1.7593E+13,2024-02-21T13:29:13-05:00,#2180,product,order,Point of Sale,Boutique Site,,,,,,,,,Silver bracelet,,,1,18,0,0,18,0,1.08,19.08
+5.61946E+12,1.75931E+13,2024-02-21T14:23:32-05:00,#2181,product,order,Point of Sale,Boutique Site,,,,,,,Apparel & Accessories,FLYING TOMATO,A faux leather shirt,CREAM / SMALL,1770,1,37.5,0,0,37.5,0,2.25,39.75
+5.61948E+12,1.75932E+13,2024-02-21T14:40:04-05:00,#2182,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Sans Souci,White Cape Jacket,M / Off White,3,1,45.5,0,0,45.5,0,2.73,48.23
+5.6214E+12,1.75971E+13,2024-02-22T18:38:10-05:00,#2183,product,order,Online Store,,United States,Kentucky,Independence,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event (PRESALE TICKETS LIMITED TIME,,,1,35,0,0,35,0,0,35
+5.62234E+12,1.75988E+13,2024-02-23T08:52:24-05:00,#2184,product,order,Online Store,,United States,Kentucky,Union,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event (PRESALE TICKETS LIMITED TIME,,,1,35,0,0,35,0,0,35
+5.6227E+12,1.75997E+13,2024-02-23T13:24:41-05:00,#2185,product,order,Point of Sale,Boutique Site,,,,,,,,,Bodycon dress,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.62273E+12,1.75998E+13,2024-02-23T13:44:43-05:00,#2186,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Inspired Fashion 40,Effervescence Earrings,,J15,1,24.99,-10,0,14.99,0,0.9,15.89
+5.62273E+12,1.75998E+13,2024-02-23T13:44:43-05:00,#2186,product,order,Point of Sale,Boutique Site,,,,,,,,,Black stretch pants,,,1,9,0,0,9,0,0.54,9.54
+5.62281E+12,1.76E+13,2024-02-23T14:46:41-05:00,#2187,product,order,Point of Sale,Boutique Site,,,,,,,,,Teal blue body suit,,,1,5,0,0,5,0,0.3,5.3
+5.62281E+12,1.76E+13,2024-02-23T14:46:41-05:00,#2187,product,order,Point of Sale,Boutique Site,,,,,,,Sale,Inspired Fashion 40,Sale,Medium,SS100,1,9,0,0,9,0,0.54,9.54
+5.62281E+12,1.76E+13,2024-02-23T14:46:41-05:00,#2187,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Inspired Fashion 40,Sale,1XL,C600,1,39.99,-30.99,0,9,0,0.54,9.54
+5.62281E+12,1.76E+13,2024-02-23T14:46:41-05:00,#2187,product,order,Point of Sale,Boutique Site,,,,,,,Dresses,Inspired Fashion 40,Sale,XL,SD300,1,9,0,0,9,0,0.54,9.54
+5.62281E+12,1.76E+13,2024-02-23T14:46:41-05:00,#2187,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink bedazzle body suit,,,1,9,0,0,9,0,0.54,9.54
+5.62282E+12,1.76E+13,2024-02-23T14:51:21-05:00,#2188,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink white body suit,,,1,5,0,0,5,0,0.3,5.3
+5.62282E+12,1.76E+13,2024-02-23T14:51:21-05:00,#2188,product,order,Point of Sale,Boutique Site,,,,,,,,,Black jumpsuit,,,1,9,0,0,9,0,0.54,9.54
+5.62282E+12,1.76E+13,2024-02-23T14:51:21-05:00,#2188,product,order,Point of Sale,Boutique Site,,,,,,,sale,Inspired Fashion 40,Sale,Small,JUMP1,1,20,-11,0,9,0,0.54,9.54
+5.62282E+12,1.76E+13,2024-02-23T14:51:21-05:00,#2188,product,order,Point of Sale,Boutique Site,,,,,,,,,Blue crop top,,,1,7,0,0,7,0,0.42,7.42
+5.62282E+12,1.76E+13,2024-02-23T14:51:21-05:00,#2188,product,order,Point of Sale,Boutique Site,,,,,,,Jumpsuits & Rompers,Inspired Fashion 40,Sale,large,SR900,1,9,0,0,9,0,0.54,9.54
+5.62435E+12,1.76032E+13,2024-02-24T14:00:58-05:00,#2189,product,order,Point of Sale,Boutique Site,,,,,,,sale,Inspired Fashion 40,Sale,Medium,SD1500,1,9,0,0,9,0,0.54,9.54
+5.62435E+12,1.76032E+13,2024-02-24T14:00:58-05:00,#2189,product,order,Point of Sale,Boutique Site,,,,,,,,,Jeweled earring,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.62435E+12,1.76033E+13,2024-02-24T14:02:55-05:00,#2190,product,order,Point of Sale,Boutique Site,,,,,,,,,Dress set,,,1,40,0,0,40,0,2.4,42.4
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Black bodysuit,Small,BOD1,1,32.99,-16.5,0,16.49,0,0.99,17.48
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Satin Wide Leg Pants,Small / Cream,P600,1,79.95,-39.98,0,39.97,0,2.4,42.37
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,,,Black shimmer body suit,,,1,9,0,0,9,0,0.54,9.54
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,sale,Inspired Fashion 40,Sale,Small,SHM100,1,9,-4,0,5,0,0.3,5.3
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,,,Black dress,,,1,40,0,0,40,0,2.4,42.4
+5.62448E+12,1.76035E+13,2024-02-24T15:07:31-05:00,#2191,product,order,Point of Sale,Boutique Site,,,,,,,Shorts,Inspired Fashion 40,Sale,Small,SS500,1,9,0,0,9,0,0.54,9.54
+5.62453E+12,1.76037E+13,2024-02-24T15:43:49-05:00,#2192,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings jeweled,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.62453E+12,1.76037E+13,2024-02-24T15:43:49-05:00,#2192,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Inspired Fashion 40,Black Ruffle Jacket,Large,119,1,119,0,0,119,0,7.14,126.14
+5.6331E+12,1.76218E+13,2024-02-29T16:39:08-05:00,#2193,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink mesh dress large,,,1,9,0,0,9,0,0.54,9.54
+5.6331E+12,1.76218E+13,2024-02-29T16:39:08-05:00,#2193,product,order,Point of Sale,Boutique Site,,,,,,,,,Necklace square swirl design RnJ,,,1,14,0,0,14,0,0.84,14.84
+5.64144E+12,1.76397E+13,2024-03-05T12:47:46-05:00,#2194,product,order,Online Store,,United States,Ohio,Cincinnati,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event,,,1,45,0,0,45,0,0,45
+5.64175E+12,1.76407E+13,2024-03-05T17:28:26-05:00,#2195,product,order,Point of Sale,Boutique Site,,,,,,,,,Black tulle dress,,,1,79,0,0,79,0,4.74,83.74
+5.64324E+12,1.76441E+13,2024-03-06T13:58:53-05:00,#2196,product,order,Online Store,,United States,Kentucky,Lexington,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! VIP EXPERIENCE,,,1,55,0,0,55,0,0,55
+5.64328E+12,1.76442E+13,2024-03-06T14:28:41-05:00,#2197,product,order,Point of Sale,Boutique Site,,,,,,,,,Moschino hoodie XL,,,1,27.99,0,0,27.99,0,1.68,29.67
+5.64339E+12,1.76445E+13,2024-03-06T15:28:10-05:00,#2198,product,order,Online Store,,United States,Kentucky,Florence,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event,,,1,45,0,0,45,0,0,45
+5.64387E+12,1.76455E+13,2024-03-06T20:24:16-05:00,#2199,product,order,Online Store,,United States,Ohio,Blue Ash,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event,,,1,45,0,0,45,0,0,45
+5.64503E+12,1.76476E+13,2024-03-07T09:44:14-05:00,#2200,product,order,Online Store,,United States,Kentucky,Ft. Mitchell,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! VIP EXPERIENCE,,,1,55,0,0,55,0,0,55
+5.64916E+12,1.76573E+13,2024-03-10T01:00:43-05:00,#2201,product,order,Online Store,,United States,Kentucky,Crestview Hills,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! VIP EXPERIENCE,,,1,55,0,0,55,0,0,55
+5.65405E+12,1.76707E+13,2024-03-13T14:59:02-04:00,#2202,product,order,Point of Sale,Boutique Site,,,,,,,,,White belt,,,1,15,0,0,15,0,0.9,15.9
+5.65539E+12,1.76747E+13,2024-03-14T12:41:39-04:00,#2203,product,order,Point of Sale,Boutique Site,,,,,,,,,Woman to Woman Sponsorship,,,1,500,0,0,500,0,30,530
+5.6586E+12,1.76839E+13,2024-03-16T17:43:42-04:00,#2204,product,order,Online Store,,United States,North Carolina,Charlotte,United States,North Carolina,Charlotte,Earrings,Inspired Fashion 40,Long Pearl Earrings,,,1,24.99,0,0,24.99,0,0,24.99
+5.6586E+12,1.76839E+13,2024-03-16T17:43:42-04:00,#2204,shipping,order,Online Store,,United States,North Carolina,Charlotte,United States,North Carolina,Charlotte,,,,,,0,0,0,0,0,7.9,0,7.9
+5.6586E+12,1.76839E+13,2024-03-16T17:43:42-04:00,#2204,product,order,Online Store,,United States,North Carolina,Charlotte,United States,North Carolina,Charlotte,2 Piece Set,Inspired Fashion 40,Sale,Medium,ST600,1,47.99,0,0,47.99,0,0,47.99
+5.61939E+12,1.76999E+13,2024-03-20T22:26:17-04:00,#2179,product,return,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Tulle Halter Top,Medium,7,-1,0,0,0,0,0,0,0
+5.61939E+12,1.76999E+13,2024-03-20T22:26:17-04:00,#2179,product,return,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Mustard Silk Dress,Medium,82,-1,0,0,-63.91,-63.91,0,-3.83,-67.74
+5.61939E+12,1.76999E+13,2024-03-20T22:26:17-04:00,#2179,product,return,Point of Sale,Boutique Site,,,,,,,,,Lipstick,,,-1,0,0,-5,-5,0,-0.3,-5.3
+5.61939E+12,1.76999E+13,2024-03-20T22:26:17-04:00,#2179,product,return,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Sans Souci,Red Bow Tie Shirt,M / Red,2,-1,0,0,-32.99,-32.99,0,-1.98,-34.97
+5.61939E+12,1.76999E+13,2024-03-20T22:26:17-04:00,#2179,product,return,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Inspired Fashion 40,Black Ruffle Jacket,Medium,119,-1,0,0,-94,-94,0,-5.64,-99.64
+5.66613E+12,1.77068E+13,2024-03-22T17:37:18-04:00,#2205,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event,,,2,90,-45,0,45,0,0,45
+5.66613E+12,1.77068E+13,2024-03-22T17:47:45-04:00,#2205,product,return,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Woman To Woman  - Let's Get Heated! Event,,,-2,0,0,-45,-45,0,0,-45
+5.66722E+12,1.771E+13,2024-03-23T15:00:43-04:00,#2206,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Sans Souci,White Cape Jacket,S / Off White,3,1,45.5,0,0,45.5,0,2.73,48.23
+5.66723E+12,1.771E+13,2024-03-23T15:06:30-04:00,#2207,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Sans Souci,White Cape Jacket,M / Off White,3,1,45.5,0,0,45.5,0,2.73,48.23
+5.66724E+12,1.771E+13,2024-03-23T15:14:13-04:00,#2208,product,order,Point of Sale,Boutique Site,,,,,,,Apparel & Accessories,The Moment Collection,Pearl Round Neck Puff Sleeve Ribbed Top,LIGHT BLUE / L,70881,1,29.99,0,0,29.99,0,1.8,31.79
+5.66724E+12,1.771E+13,2024-03-23T15:14:13-04:00,#2208,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Blazer Mini Dress,Medium,42,1,48.99,0,0,48.99,0,2.94,51.93
+5.66724E+12,1.771E+13,2024-03-23T15:14:13-04:00,#2208,product,order,Point of Sale,Boutique Site,,,,,,,Skirt Suits,Inspired Fashion 40,2 Piece Baroque Style Dress Set,Large,1,1,125,-62.5,0,62.5,0,3.75,66.25
+5.66724E+12,1.771E+13,2024-03-23T15:15:08-04:00,#2209,product,order,Point of Sale,Boutique Site,,,,,,,,,Red Ball Earrings,,,1,18.99,0,0,18.99,0,1.14,20.13
+5.66724E+12,1.771E+13,2024-03-23T15:15:08-04:00,#2209,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Sans Souci,White Cape Jacket,L / Off White,3,1,45.5,0,0,45.5,0,2.73,48.23
+5.66724E+12,1.771E+13,2024-03-23T15:15:08-04:00,#2209,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown Puffy Shirt Large,,,1,35,0,0,35,0,2.1,37.1
+5.66724E+12,1.771E+13,2024-03-23T15:17:51-04:00,#2210,product,order,Point of Sale,Boutique Site,,,,,,,Apparel & Accessories,FLYING TOMATO,A faux leather shirt,CREAM / LARGE,1770,1,37.5,0,0,37.5,0,2.25,39.75
+5.66725E+12,1.77101E+13,2024-03-23T15:23:41-04:00,#2211,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Mustard Silk Dress,Large,82,1,79.88,0,0,79.88,0,4.79,84.67
+5.66725E+12,1.77101E+13,2024-03-23T15:23:41-04:00,#2211,product,order,Point of Sale,Boutique Site,,,,,,,,,Green earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.66726E+12,1.77101E+13,2024-03-23T15:31:00-04:00,#2212,product,order,Point of Sale,Boutique Site,,,,,,,,,Chain link necklace with earrings,,,1,17.5,0,0,17.5,0,1.05,18.55
+5.66726E+12,1.77101E+13,2024-03-23T15:31:00-04:00,#2212,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Satin Wide Leg Pants,Small / Black,P500,1,79.95,0,0,79.95,0,4.8,84.75
+5.66726E+12,1.77101E+13,2024-03-23T15:33:37-04:00,#2213,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Inspired Fashion 40,Black Ruffle Jacket,Small,119,1,119,0,0,119,0,7.14,126.14
+5.66727E+12,1.77101E+13,2024-03-23T15:44:22-04:00,#2214,product,order,Point of Sale,Boutique Site,,,,,,,,,Lip Gloss,,,1,15,0,0,15,0,0.9,15.9
+5.66727E+12,1.77101E+13,2024-03-23T15:44:22-04:00,#2214,product,order,Point of Sale,Boutique Site,,,,,,,,,Woman to Woman Blk shirt lg,,,1,17.99,0,0,17.99,0,1.08,19.07
+5.66734E+12,1.77103E+13,2024-03-23T16:43:25-04:00,#2215,product,order,Point of Sale,Boutique Site,,,,,,,Dress,INA,Red Side Bow Mini Skirt,Medium,475,1,45,0,0,45,0,2.7,47.7
+5.66741E+12,1.77105E+13,2024-03-23T17:51:30-04:00,#2216,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Mulla,BLACK ORGANZA FLOWER BROOCH Accessory,,FM77,1,20,0,0,20,0,1.2,21.2
+5.66741E+12,1.77105E+13,2024-03-23T17:51:30-04:00,#2216,product,order,Point of Sale,Boutique Site,,,,,,,,,Mustard top,,,1,28.99,0,0,28.99,0,1.74,30.73
+5.66742E+12,1.77105E+13,2024-03-23T18:00:33-04:00,#2217,product,order,Point of Sale,Boutique Site,,,,,,,,,Women to women mug,,,1,9.99,0,0,9.99,0,0.6,10.59
+5.66743E+12,1.77106E+13,2024-03-23T18:07:18-04:00,#2218,product,order,Point of Sale,Boutique Site,,,,,,,,,Green earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.66743E+12,1.77106E+13,2024-03-23T18:07:18-04:00,#2218,product,order,Point of Sale,Boutique Site,,,,,,,Skirt Suits,Inspired Fashion 40,2 Piece Baroque Style Dress Set,Medium,1,1,125,-62.5,0,62.5,0,3.75,66.25
+5.66745E+12,1.77106E+13,2024-03-23T18:26:43-04:00,#2219,product,order,Point of Sale,Boutique Site,,,,,,,,,Green sheer dress,,,1,39.99,0,0,39.99,0,2.4,42.39
+5.6586E+12,1.78912E+13,2024-04-16T21:59:10-04:00,#2204,unknown,return,Online Store,,United States,North Carolina,Charlotte,United States,North Carolina,Charlotte,,,,,,0,0,0,-50.86,-50.86,0,0,-50.86
+5.74097E+12,1.79484E+13,2024-04-24T18:28:56-04:00,#2220,product,order,Point of Sale,Boutique Site,,,,,,,,,Green dress,,,1,89.99,0,0,89.99,0,5.4,95.39
+5.74341E+12,1.79559E+13,2024-04-26T15:09:37-04:00,#2221,gift_card,order,Online Store,,United States,Ohio,Fairfield,,,,Gift Card,Inspired Fashion 40,Inspired Fashion Gift Card,$75.00 ,,1,0,0,0,0,0,0,0
+5.74483E+12,1.79598E+13,2024-04-27T16:18:12-04:00,#2222,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Doohickies,Smooch Acrylic Dangles -Earrings,,7363,1,20,-4,0,16,0,0.96,16.96
+5.74487E+12,1.796E+13,2024-04-27T16:57:12-04:00,#2223,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag Sale,,,1,225,0,0,225,0,13.5,238.5
+5.74488E+12,1.796E+13,2024-04-27T17:01:01-04:00,#2224,product,order,Point of Sale,Boutique Site,,,,,,,,,Yellow bracelet,,,1,5,0,0,5,0,0.3,5.3
+5.7449E+12,1.796E+13,2024-04-27T17:19:43-04:00,#2225,product,order,Point of Sale,Boutique Site,,,,,,,,,Woman to Woman mixer,,,2,48,0,0,48,0,2.88,50.88
+5.66743E+12,1.79927E+13,2024-05-03T15:31:16-04:00,#2218,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Fascinator,,,1,49.99,0,0,49.99,0,3,52.99
+5.66743E+12,1.79927E+13,2024-05-03T15:31:16-04:00,#2218,gift_card,order,Point of Sale,Boutique Site,,,,,,,,,Inspired Fashion Gift Card,,,1,0,0,0,0,0,0,0
+5.66743E+12,1.79927E+13,2024-05-03T15:31:17-04:00,#2218,product,return,Point of Sale,Boutique Site,,,,,,,Skirt Suits,Inspired Fashion 40,2 Piece Baroque Style Dress Set,Medium,1,-1,0,0,-62.5,-62.5,0,-3.75,-66.25
+5.66743E+12,1.79927E+13,2024-05-03T15:31:18-04:00,#2218,product,return,Point of Sale,Boutique Site,,,,,,,Skirt Suits,Inspired Fashion 40,2 Piece Baroque Style Dress Set,Medium,1,1,0,0,62.5,62.5,0,3.75,66.25
+5.66743E+12,1.79927E+13,2024-05-03T15:31:18-04:00,#2218,product,return,Point of Sale,Boutique Site,,,,,,,Skirt Suits,Inspired Fashion 40,2 Piece Baroque Style Dress Set,Medium,1,-1,0,0,-62.5,-62.5,0,-3.75,-66.25
+5.75626E+12,1.79962E+13,2024-05-04T11:25:03-04:00,#2226,product,order,Point of Sale,Boutique Site,,,,,,,Dresses,Ariel USA,Sale,Medium / R,RAD2,1,39.99,0,0,39.99,0,2.4,42.39
+5.75627E+12,1.79963E+13,2024-05-04T11:33:58-04:00,#2227,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Inspired Fashion 40,Brown Puffy Sleeve Shirt,Large,5,1,27.99,0,0,27.99,0,1.68,29.67
+5.75658E+12,1.79971E+13,2024-05-04T14:33:08-04:00,#2228,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Tulle Halter Top,Medium,7,1,79.99,0,0,79.99,0,4.8,84.79
+5.75659E+12,1.79971E+13,2024-05-04T14:35:00-04:00,#2229,product,order,Point of Sale,Boutique Site,,,,,,,Accessories,Inspired Fashion 40,Blue Petal Earrings,,JB1,1,24.99,0,0,24.99,0,1.5,26.49
+5.75791E+12,1.80009E+13,2024-05-05T14:54:54-04:00,#2230,product,order,Point of Sale,Boutique Site,,,,,,,Dresses,Ariel USA,Sale,Large / R,RAD2,1,39.99,0,0,39.99,0,2.4,42.39
+5.75793E+12,1.8001E+13,2024-05-05T15:11:33-04:00,#2231,product,order,Point of Sale,Boutique Site,,,,,,,,,Mustard shirt,,,1,28.99,0,0,28.99,0,1.74,30.73
+5.75801E+12,1.80012E+13,2024-05-05T16:23:03-04:00,#2232,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,24,0,0,24,0,1.44,25.44
+5.75804E+12,1.80013E+13,2024-05-05T16:49:06-04:00,#2233,product,order,Point of Sale,Boutique Site,,,,,,,,,Pearl necklace,,,1,35,0,0,35,0,2.1,37.1
+5.75806E+12,1.80014E+13,2024-05-05T17:11:44-04:00,#2234,product,order,Point of Sale,Boutique Site,,,,,,,,,Burgundy dress,,,1,38.99,0,0,38.99,0,2.34,41.33
+5.75809E+12,1.80015E+13,2024-05-05T17:48:17-04:00,#2235,product,order,Point of Sale,Boutique Site,,,,,,,Bracelet,Inspired Fashion 40,Flower Bracelet,Navy,J11,1,27.99,-2,0,25.99,0,1.56,27.55
+5.7581E+12,1.80015E+13,2024-05-05T17:51:19-04:00,#2236,product,order,Point of Sale,Boutique Site,,,,,,,,,Short set,,,1,42.99,0,0,42.99,0,2.58,45.57
+5.7581E+12,1.80015E+13,2024-05-05T17:51:19-04:00,#2236,product,order,Point of Sale,Boutique Site,,,,,,,,,Flower belt,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.76003E+12,1.80082E+13,2024-05-06T17:27:32-04:00,#2237,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Paisley Pant Set - Curvy,2XL,C100,1,74.95,-20.1,0,54.85,0,3.29,58.14
+5.76003E+12,1.80082E+13,2024-05-06T17:27:32-04:00,#2237,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink earrings,,,1,10,-2.68,0,7.32,0,0.44,7.76
+5.76003E+12,1.80082E+13,2024-05-06T17:27:32-04:00,#2237,product,order,Point of Sale,Boutique Site,,,,,,,,,Green dress,,,1,64.5,-17.3,0,47.2,0,2.83,50.03
+5.76003E+12,1.80082E+13,2024-05-06T17:27:32-04:00,#2237,product,order,Point of Sale,Boutique Site,,,,,,,,,RnJ Necklace,,,1,22,-5.89,0,16.11,0,0.97,17.08
+5.76003E+12,1.80082E+13,2024-05-06T17:27:32-04:00,#2237,product,order,Point of Sale,Boutique Site,,,,,,,Shirt,Inspired Fashion 40,Girl Hero Graphic T-Shirt,XL,10,1,15,-4.03,0,10.97,0,0.66,11.63
+5.78078E+12,1.80762E+13,2024-05-18T16:56:04-04:00,#2238,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown jeans,,,1,5,0,0,5,0,0.3,5.3
+5.781E+12,1.80768E+13,2024-05-18T21:38:43-04:00,#2239,shipping,order,Shop,,Canada,Ontario,Toronto,Canada,Ontario,Toronto,,,,,,0,0,0,0,0,52.9,0,52.9
+5.781E+12,1.80768E+13,2024-05-18T21:38:43-04:00,#2239,product,order,Shop,,Canada,Ontario,Toronto,Canada,Ontario,Toronto,Accessories,Mulla,BLACK ORGANZA FLOWER BROOCH Accessory,,FM77,1,20.57,0,0,20.57,0,0,20.57
+5.79676E+12,1.81281E+13,2024-05-25T13:25:53-04:00,#2240,product,order,Point of Sale,Boutique Site,,,,,,,,,Butterfly braclet,,,1,15,-3,0,12,0,0.72,12.72
+5.79685E+12,1.81283E+13,2024-05-25T14:30:39-04:00,#2241,product,order,Point of Sale,Boutique Site,,,,,,,,,Two piece beach set,,,1,89.99,-17.99,0,72,0,4.32,76.32
+5.79685E+12,1.81283E+13,2024-05-25T14:30:39-04:00,#2241,product,order,Point of Sale,Boutique Site,,,,,,,,,Prada jacket,,,1,125,0,0,125,0,7.5,132.5
+5.7449E+12,1.81539E+13,2024-05-29T12:00:37-04:00,#2225,product,return,Point of Sale,Boutique Site,,,,,,,,,Woman to Woman mixer,,,-2,0,0,-48,-48,0,-2.88,-50.88
+5.80884E+12,1.81673E+13,2024-05-31T12:22:00-04:00,#2242,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Paisley Pant Set - Curvy,2XL,C100,1,74.95,-10.96,0,63.99,0,3.84,67.83
+5.83269E+12,1.82343E+13,2024-06-15T11:33:40-04:00,#2243,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag sale,,,1,225,0,0,225,0,13.5,238.5
+5.83269E+12,1.82343E+13,2024-06-15T11:33:40-04:00,#2243,product,order,Point of Sale,Boutique Site,,,,,,,,,R&j Jewlery,,,1,24,-4.8,0,19.2,0,1.15,20.35
+5.8328E+12,1.82346E+13,2024-06-15T12:52:55-04:00,#2244,product,order,Point of Sale,Boutique Site,,,,,,,,,R&j Jewlery,,,1,24,0,0,24,0,1.44,25.44
+5.8328E+12,1.82346E+13,2024-06-15T12:52:55-04:00,#2244,product,order,Point of Sale,Boutique Site,,,,,,,,,Braclet,,,1,18,0,0,18,0,1.08,19.08
+5.8328E+12,1.82346E+13,2024-06-15T12:52:55-04:00,#2244,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag sale,,,1,225,0,0,225,0,13.5,238.5
+5.8328E+12,1.82346E+13,2024-06-15T12:52:55-04:00,#2244,product,order,Point of Sale,Boutique Site,,,,,,,,,R&j Jewlery,,,1,27,0,0,27,0,1.62,28.62
+5.83282E+12,1.82346E+13,2024-06-15T13:02:25-04:00,#2245,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag sale,,,1,225,-45,0,180,0,10.8,190.8
+5.83282E+12,1.82347E+13,2024-06-15T13:06:00-04:00,#2246,product,order,Point of Sale,Boutique Site,,,,,,,Apparel & Accessories,The Moment Collection,Pleated Tiered Maxi Skirt,Rose Pink / M,70040,1,40.6,-8.12,0,32.48,0,1.95,34.43
+5.83282E+12,1.82347E+13,2024-06-15T13:06:00-04:00,#2246,product,order,Point of Sale,Boutique Site,,,,,,,Coats & Jackets,Inspired Fashion 40,Black Ruffle Jacket,Medium,119,1,119,-23.8,0,95.2,0,5.71,100.91
+5.83285E+12,1.82347E+13,2024-06-15T13:24:43-04:00,#2247,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag sale,,,1,225,-45,0,180,0,10.8,190.8
+5.83285E+12,1.82347E+13,2024-06-15T13:26:19-04:00,#2248,product,order,Point of Sale,Boutique Site,,,,,,,,,Bag sale,,,1,225,-45,0,180,0,10.8,190.8
+5.84019E+12,1.82563E+13,2024-06-20T11:54:36-04:00,#2249,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Strut & Bolt,BARBIE PRINCESS High Low Tulle Dress,Oatmeal / Large,653,1,124.99,-62.49,0,62.5,0,3.75,66.25
+5.84325E+12,1.82655E+13,2024-06-22T16:34:13-04:00,#2250,product,order,Point of Sale,Boutique Site,,,,,,,,,Gold necklace with ring,,,1,25,0,0,25,0,1.5,26.5
+5.84325E+12,1.82655E+13,2024-06-22T16:37:32-04:00,#2251,product,order,Point of Sale,Boutique Site,,,,,,,,,Romper brown,,,1,30,0,0,30,0,1.8,31.8
+5.85145E+12,1.82905E+13,2024-06-29T11:38:25-04:00,#2252,product,order,Online Store,,United States,Alabama,Daphne,United States,Alabama,Daphne,Dresses,Inspired Fashion 40,Sale,Large,D650,1,9,0,0,9,0,0,9
+5.85145E+12,1.82905E+13,2024-06-29T11:38:25-04:00,#2252,product,order,Online Store,,United States,Alabama,Daphne,United States,Alabama,Daphne,Dress,Trendsi,Printed Notched Long Sleeve Mini Dress (ONLINE ONLY),Green / L,1.00101E+14,1,49.99,0,0,49.99,0,0,49.99
+5.85145E+12,1.82905E+13,2024-06-29T11:38:25-04:00,#2252,shipping,order,Online Store,,United States,Alabama,Daphne,United States,Alabama,Daphne,,,,,,0,0,0,0,0,7.9,0,7.9
+5.85182E+12,1.82915E+13,2024-06-29T16:16:59-04:00,#2253,product,order,Point of Sale,Boutique Site,,,,,,,,,Layaway payment,,,1,95,0,0,95,0,5.7,100.7
+5.85183E+12,1.82915E+13,2024-06-29T16:24:19-04:00,#2254,product,order,Point of Sale,Boutique Site,,,,,,,,,Red skirt,,,1,20,-4,0,16,0,0.96,16.96
+5.86199E+12,1.83266E+13,2024-07-06T13:17:16-04:00,#2255,product,order,Point of Sale,Boutique Site,,,,,,,,,Layaway payment,,,1,95,0,0,95,0,5.7,100.7
+5.87123E+12,1.8354E+13,2024-07-13T14:28:56-04:00,#2256,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Sans Souci,Red Bow Tie Shirt,S / Red,2,1,32.99,-6.59,0,26.4,0,1.58,27.98
+5.87123E+12,1.8354E+13,2024-07-13T14:28:56-04:00,#2256,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Satin Wide Leg Pants,Small / Black,P500,1,79.95,-15.99,0,63.96,0,3.84,67.8
+5.88833E+12,1.84051E+13,2024-07-26T11:19:51-04:00,#2257,product,order,Point of Sale,Boutique Site,,,,,,,,,Necklace and Earring set,,,1,24,0,0,24,0,1.44,25.44
+5.88847E+12,1.84061E+13,2024-07-26T12:48:27-04:00,#2258,product,order,Point of Sale,Boutique Site,,,,,,,,,Green bell dress,,,1,25,0,0,25,0,1.5,26.5
+5.88847E+12,1.84061E+13,2024-07-26T12:48:27-04:00,#2258,product,order,Point of Sale,Boutique Site,,,,,,,,,Accessories,,,1,20,0,0,20,0,1.2,21.2
+5.8885E+12,1.84062E+13,2024-07-26T13:05:49-04:00,#2259,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,2,10,0,0,10,0,0.6,10.6
+5.88851E+12,1.84062E+13,2024-07-26T13:12:01-04:00,#2260,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Short Set - Cream Curvy,XL,CR111,1,42.99,-17.99,0,25,0,1.5,26.5
+5.88851E+12,1.84062E+13,2024-07-26T13:12:01-04:00,#2260,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Inspired Fashion 40,Mustard Top,XL,CT121,1,28.99,-3.99,0,25,0,1.5,26.5
+5.88854E+12,1.84063E+13,2024-07-26T13:31:27-04:00,#2261,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink and Green Earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.88854E+12,1.84063E+13,2024-07-26T13:31:51-04:00,#2262,product,order,Point of Sale,Boutique Site,,,,,,,,,Denim jacket,,,1,25,0,0,25,0,1.5,26.5
+5.88854E+12,1.84063E+13,2024-07-26T13:33:48-04:00,#2263,product,order,Point of Sale,Boutique Site,,,,,,,,,Pink and green earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.88858E+12,1.84064E+13,2024-07-26T14:01:12-04:00,#2264,product,order,Point of Sale,Boutique Site,,,,,,,,,Red jumpsuit,,,1,89.99,0,0,89.99,0,5.4,95.39
+5.88858E+12,1.84064E+13,2024-07-26T14:01:12-04:00,#2264,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.88872E+12,1.84069E+13,2024-07-26T15:38:54-04:00,#2265,product,order,Point of Sale,Boutique Site,,,,,,,,,Puffy sleeve shirt,,,1,25,0,0,25,0,1.5,26.5
+5.88872E+12,1.84069E+13,2024-07-26T15:38:54-04:00,#2265,product,order,Point of Sale,Boutique Site,,,,,,,,,Ring,,,1,16,0,0,16,0,0.96,16.96
+5.88872E+12,1.84069E+13,2024-07-26T15:42:18-04:00,#2266,product,order,Point of Sale,Boutique Site,,,,,,,,,Girl hero,,,1,15,0,0,15,0,0.9,15.9
+5.88872E+12,1.84069E+13,2024-07-26T15:42:18-04:00,#2266,product,order,Point of Sale,Boutique Site,,,,,,,Dress,INA,Red Side Bow Mini Skirt,Small,475,1,45,-20,0,25,0,1.5,26.5
+5.88876E+12,1.8407E+13,2024-07-26T16:13:04-04:00,#2267,product,order,Point of Sale,Boutique Site,,,,,,,,,Brown/tan shorts and shirt set,,,1,25,0,0,25,0,1.5,26.5
+5.88879E+12,1.84071E+13,2024-07-26T16:31:51-04:00,#2268,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,1,5,0,0,5,0,0.3,5.3
+5.88884E+12,1.84072E+13,2024-07-26T17:13:34-04:00,#2269,product,order,Point of Sale,Boutique Site,,,,,,,,,RnJ turtle necklace set,,,1,24,0,0,24,0,1.44,25.44
+5.88884E+12,1.84072E+13,2024-07-26T17:13:34-04:00,#2269,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,15,0,0,15,0,0.9,15.9
+5.88897E+12,1.84076E+13,2024-07-26T19:21:04-04:00,#2270,product,order,Point of Sale,Boutique Site,,,,,,,,,Engraved compact mirror,,,1,5,0,0,5,0,0.3,5.3
+5.88983E+12,1.84173E+13,2024-07-27T12:20:12-04:00,#2271,product,order,Point of Sale,Boutique Site,,,,,,,,,4 pieces for $80,,,1,80,0,0,80,0,4.8,84.8
+5.88984E+12,1.84173E+13,2024-07-27T12:22:05-04:00,#2272,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,5,0,0,5,0,0.3,5.3
+5.88988E+12,1.84176E+13,2024-07-27T12:49:52-04:00,#2273,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Red Satin Earrings,,,1,24.99,0,0,24.99,0,1.5,26.49
+5.88989E+12,1.84177E+13,2024-07-27T13:00:11-04:00,#2274,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Paisley Pant Set - Curvy,XL,C100,1,74.95,0,0,74.95,0,4.5,79.45
+5.88998E+12,1.84184E+13,2024-07-27T14:03:52-04:00,#2275,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Catching Looks Pant Suit,Large,PR364,1,83.25,0,0,83.25,0,5,88.25
+5.88999E+12,1.84185E+13,2024-07-27T14:06:58-04:00,#2276,product,order,Point of Sale,Boutique Site,,,,,,,Jumpsuits & Rompers,FLYING TOMATO,A Colorful Jumpsuit Curvy,1X / Plus Size / GREEN PINK,IP8253-P,1,87.99,-11.99,0,76,0,4.56,80.56
+5.89002E+12,1.84187E+13,2024-07-27T14:26:50-04:00,#2277,product,order,Point of Sale,Boutique Site,,,,,,,,,Black studded ring,,,1,15,0,0,15,0,0.9,15.9
+5.89002E+12,1.84187E+13,2024-07-27T14:26:50-04:00,#2277,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,1,5,0,0,5,0,0.3,5.3
+5.89002E+12,1.84187E+13,2024-07-27T14:31:10-04:00,#2278,product,order,Point of Sale,Boutique Site,,,,,,,,,Black skirt,,,1,25,0,0,25,0,1.5,26.5
+5.89002E+12,1.84187E+13,2024-07-27T14:31:10-04:00,#2278,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Mustard Silk Dress,Small,82,1,79.88,-15.97,0,63.91,0,3.83,67.74
+5.89002E+12,1.84187E+13,2024-07-27T14:31:10-04:00,#2278,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Silk Suit Shorts,Small,SK100,1,32.99,0,0,32.99,0,1.98,34.97
+5.89003E+12,1.84188E+13,2024-07-27T14:36:39-04:00,#2279,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Catching Looks Pant Suit,Medium,PR364,1,83.25,0,0,83.25,0,5,88.25
+5.89005E+12,1.84189E+13,2024-07-27T14:51:49-04:00,#2280,product,order,Point of Sale,Boutique Site,,,,,,,,,Jacket,,,1,25,0,0,25,0,1.5,26.5
+5.89005E+12,1.84189E+13,2024-07-27T14:51:49-04:00,#2280,product,order,Point of Sale,Boutique Site,,,,,,,,,Cream romper,,,1,15,0,0,15,0,0.9,15.9
+5.89005E+12,1.84189E+13,2024-07-27T14:51:49-04:00,#2280,product,order,Point of Sale,Boutique Site,,,,,,,,,Red skirt,,,1,15,0,0,15,0,0.9,15.9
+5.89006E+12,1.8419E+13,2024-07-27T14:53:51-04:00,#2281,product,order,Point of Sale,Boutique Site,,,,,,,,,Bracelet,,,1,15,0,0,15,0,0.9,15.9
+5.89007E+12,1.84191E+13,2024-07-27T15:01:15-04:00,#2282,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,White Wide Leg Pants,Medium,PP100,1,79.95,-15.99,0,63.96,0,3.84,67.8
+5.89007E+12,1.84191E+13,2024-07-27T15:01:15-04:00,#2282,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,FLYING TOMATO,Graphic Bell Sleeve Shirt,M / GREEN NAVY / Contemporary,IT13161,1,42.99,0,0,42.99,0,2.58,45.57
+5.89008E+12,1.84191E+13,2024-07-27T15:10:11-04:00,#2283,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,FLYING TOMATO,Graphic Bell Sleeve Shirt,M / GREEN NAVY / Contemporary,IT13161,1,42.99,0,0,42.99,0,2.58,45.57
+5.89008E+12,1.84191E+13,2024-07-27T15:10:11-04:00,#2283,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Zebra Stripped Pant Set,Medium,S345,1,118.99,-17.84,0,101.15,0,6.07,107.22
+5.89009E+12,1.84192E+13,2024-07-27T15:15:43-04:00,#2284,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Strut & Bolt,BARBIE PRINCESS High Low Tulle Dress,Oatmeal / Large,653,1,124.99,-62.49,0,62.5,0,3.75,66.25
+5.89018E+12,1.84199E+13,2024-07-27T16:24:52-04:00,#2285,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Tulle Halter Top,Large,7,1,79.99,-32,0,47.99,0,2.88,50.87
+5.8902E+12,1.84201E+13,2024-07-27T16:42:31-04:00,#2286,product,order,Point of Sale,Boutique Site,,,,,,,Shirts & Tops,Inspired Fashion 40,Plum Silk Shirt,Large,S100,1,34.61,-9.61,0,25,0,1.5,26.5
+5.8902E+12,1.84201E+13,2024-07-27T16:42:31-04:00,#2286,product,order,Point of Sale,Boutique Site,,,,,,,Pants,Inspired Fashion 40,Plum Silk Pants,Large,P100,1,79.95,-54.95,0,25,0,1.5,26.5
+5.89023E+12,1.84203E+13,2024-07-27T17:03:28-04:00,#2287,product,order,Point of Sale,Boutique Site,,,,,,,blazers,Inspired Fashion 40,Silk Blazer Jacket,Medium,JA100,1,45.99,-20.99,0,25,0,1.5,26.5
+5.89023E+12,1.84203E+13,2024-07-27T17:03:28-04:00,#2287,product,order,Point of Sale,Boutique Site,,,,,,,,,Graphic printed shirt,,,1,25,0,0,25,0,1.5,26.5
+5.89023E+12,1.84203E+13,2024-07-27T17:03:28-04:00,#2287,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Silk Suit Shorts,Small,SK100,1,32.99,-7.99,0,25,0,1.5,26.5
+5.89023E+12,1.84203E+13,2024-07-27T17:03:28-04:00,#2287,product,order,Point of Sale,Boutique Site,,,,,,,,,Joggers maroon,,,1,5,0,0,5,0,0.3,5.3
+5.89038E+12,1.84219E+13,2024-07-27T19:44:33-04:00,#2288,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,1,5,0,0,5,0,0.3,5.3
+5.89038E+12,1.84219E+13,2024-07-27T19:44:33-04:00,#2288,product,order,Point of Sale,Boutique Site,,,,,,,,,R&j jewlery set,,,1,20,0,0,20,0,1.2,21.2
+5.89105E+12,1.84294E+13,2024-07-28T10:35:47-04:00,#2289,product,order,Point of Sale,Boutique Site,,,,,,,,,Pearls,,,1,15,0,0,15,0,0.9,15.9
+5.89105E+12,1.84294E+13,2024-07-28T10:35:47-04:00,#2289,product,order,Point of Sale,Boutique Site,,,,,,,Dress,Inspired Fashion 40,Halter High Low Dress Curvy,XL,CD333,1,119,-39,0,80,0,4.8,84.8
+5.89105E+12,1.84294E+13,2024-07-28T10:35:47-04:00,#2289,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings,,,1,5,0,0,5,0,0.3,5.3
+5.89105E+12,1.84294E+13,2024-07-28T10:35:47-04:00,#2289,product,order,Point of Sale,Boutique Site,,,,,,,,,Red dress,,,1,20,0,0,20,0,1.2,21.2
+5.89105E+12,1.84294E+13,2024-07-28T10:35:47-04:00,#2289,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Zebra Stripped Pant Set Curvy,XL,SC345,1,118.99,-39,0,79.99,0,4.8,84.79
+5.8912E+12,1.84299E+13,2024-07-28T12:41:27-04:00,#2290,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Zebra Stripped Pant Set Curvy,XXXL,SC345,1,118.99,-39.99,0,79,0,4.74,83.74
+5.8912E+12,1.84299E+13,2024-07-28T12:41:27-04:00,#2290,product,order,Point of Sale,Boutique Site,,,,,,,,Inspired Fashion 40,Bead Decor Tassel Drop Earrings,Red,,1,24.99,-6.24,0,18.75,0,1.13,19.88
+5.89125E+12,1.843E+13,2024-07-28T13:25:56-04:00,#2291,product,order,Point of Sale,Boutique Site,,,,,,,,,4 for $80,,,1,80,0,0,80,0,4.8,84.8
+5.89126E+12,1.843E+13,2024-07-28T13:35:02-04:00,#2292,product,order,Point of Sale,Boutique Site,,,,,,,,,2 piece set,,,1,59.99,-14.99,0,45,0,2.7,47.7
+5.89126E+12,1.84301E+13,2024-07-28T13:37:14-04:00,#2293,product,order,Point of Sale,Boutique Site,,,,,,,,,Green romper one shoulder,,,1,75,-18.75,0,56.25,0,3.38,59.63
+5.89126E+12,1.84301E+13,2024-07-28T13:37:14-04:00,#2293,product,order,Point of Sale,Boutique Site,,,,,,,,,Earrings clip ons,,,1,24.99,-6.24,0,18.75,0,1.13,19.88
+5.89737E+12,1.84486E+13,2024-08-01T15:10:12-04:00,#2294,product,order,Point of Sale,Boutique Site,,,,,,,dresses,Inspired Fashion 40,Blazer Mini Dress,Large,42,1,48.99,-9.79,0,39.2,0,2.35,41.55
+5.89876E+12,1.84528E+13,2024-08-02T14:11:40-04:00,#2295,product,order,Point of Sale,Boutique Site,,,,,,,2 Piece Set,Inspired Fashion 40,Catching Looks Pant Suit,Small,PR364,1,83.25,-16.65,0,66.6,0,4,70.6
+5.90019E+12,1.8457E+13,2024-08-03T14:25:26-04:00,#2296,product,order,Point of Sale,Boutique Site,,,,,,,,,Kamala T shirt,,,1,25,-5,0,20,0,1.2,21.2
+5.90034E+12,1.84574E+13,2024-08-03T16:01:45-04:00,#2297,product,order,Point of Sale,Boutique Site,,,,,,,,,Final lay away payment,,,1,66,0,0,66,0,3.96,69.96
+5.9094E+12,1.85049E+13,2024-08-10T11:56:48-04:00,#2298,product,order,Point of Sale,Boutique Site,,,,,,,,,R&J jewlery,,,1,15,0,0,15,0,0.9,15.9

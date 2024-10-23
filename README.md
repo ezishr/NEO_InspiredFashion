@@ -55,6 +55,7 @@
     + Returns by Region
   
 **Normal transactions analysis:**
+
 ***1. Sales Performance Analysis***
 
 - Gross Sales vs. Net Sales: Compare gross sales (before discounts and returns) with net sales to understand how much of the revenue is lost due to returns and discounts.

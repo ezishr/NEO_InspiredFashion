@@ -1,15 +1,15 @@
-Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping region,Shipping city,Product type,Product vendor,Net quantity,Gross sales,Discounts,Returns,Net sales,Shipping,Taxes,Total sales,size,color,style,converted,date_sold,month
-5552290000000.0,17444600000000.0,#2098,Unknown,Online Store,United States,Arkansas,Bryant,No info,No info,0,0.0,0.0,-9.0,-9.0,0.0,0.0,-9.0,No info,No info,No info,No info,2024-01-12,1
-5552290000000.0,17441200000000.0,#2098,Product,Online Store,United States,Arkansas,Bryant,Sale,Inspired Fashion 40,-1,0.0,0.0,-9.0,-9.0,0.0,0.0,-9.0,No info,No info,No info,Sale Type,2024-01-12,1
-5552290000000.0,17441200000000.0,#2098,Unknown,Online Store,United States,Arkansas,Bryant,No info,No info,0,0.0,0.0,9.0,9.0,0.0,0.0,9.0,No info,No info,No info,No info,2024-01-12,1
-5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Shirts & tops,Inspired Fashion 40,-1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,No info,No info,Tulle Halter,Shirts & tops Type/Tulle Halter Style,2024-03-21,3
-5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Dresses,Inspired Fashion 40,-1,0.0,0.0,-63.91,-63.91,0.0,-3.83,-67.74,No info,No info,Mustard Silk,Dresses Type/Mustard Silk Style,2024-03-21,3
-5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,No info,No info,-1,0.0,0.0,-5.0,-5.0,0.0,-0.3,-5.3,No info,No info,No info,Lipstick,2024-03-21,3
-5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Shirts,Sans Souci,-1,0.0,0.0,-32.99,-32.99,0.0,-1.98,-34.97,No info,No info,Red Bow Tie,Shirts Type/Red Bow Tie Style,2024-03-21,3
-5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Coats & jackets,Inspired Fashion 40,-1,0.0,0.0,-94.0,-94.0,0.0,-5.64,-99.64,No info,Black,Ruffle,Coats & jackets Type/Black Color/Ruffle Style,2024-03-21,3
-5666130000000.0,17706800000000.0,#2205,Product,Point of Sale,No info,No info,No info,Event,Inspired Fashion 40,-2,0.0,0.0,-45.0,-45.0,0.0,0.0,-45.0,No info,No info,No info,Event Type,2024-03-22,3
-5658600000000.0,17891200000000.0,#2204,Unknown,Online Store,United States,North Carolina,Charlotte,No info,No info,0,0.0,0.0,-50.86,-50.86,0.0,0.0,-50.86,No info,No info,No info,No info,2024-04-17,4
-5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,-1,0.0,0.0,-62.5,-62.5,0.0,-3.75,-66.25,No info,No info,Baroque,Skirt suits Type/Baroque Style,2024-05-03,5
-5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,1,0.0,0.0,62.5,62.5,0.0,3.75,66.25,No info,No info,Baroque,Skirt suits Type/Baroque Style,2024-05-03,5
-5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,-1,0.0,0.0,-62.5,-62.5,0.0,-3.75,-66.25,No info,No info,Baroque,Skirt suits Type/Baroque Style,2024-05-03,5
-5744900000000.0,18153900000000.0,#2225,Product,Point of Sale,No info,No info,No info,Event,No info,-2,0.0,0.0,-48.0,-48.0,0.0,-2.88,-50.88,No info,No info,No info,Event Type,2024-05-29,5
+Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping region,Shipping city,Product type,Product vendor,Net quantity,Gross sales,Discounts,Returns,Net sales,Shipping,Taxes,Total sales,size,color,style,date_sold,month
+5552290000000.0,17444600000000.0,#2098,Unknown,Online Store,United States,Arkansas,Bryant,No info,No info,0,0.0,0.0,-9.0,-9.0,0.0,0.0,-9.0,No info,No info,No info,2024-01-12,1
+5552290000000.0,17441200000000.0,#2098,Product,Online Store,United States,Arkansas,Bryant,Sale,Inspired Fashion 40,-1,0.0,0.0,-9.0,-9.0,0.0,0.0,-9.0,No info,No info,No info,2024-01-12,1
+5552290000000.0,17441200000000.0,#2098,Unknown,Online Store,United States,Arkansas,Bryant,No info,No info,0,0.0,0.0,9.0,9.0,0.0,0.0,9.0,No info,No info,No info,2024-01-12,1
+5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Shirts & tops,Inspired Fashion 40,-1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,No info,No info,Tulle Halter,2024-03-21,3
+5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Dresses,Inspired Fashion 40,-1,0.0,0.0,-63.91,-63.91,0.0,-3.83,-67.74,No info,No info,Mustard Silk,2024-03-21,3
+5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,No info,No info,-1,0.0,0.0,-5.0,-5.0,0.0,-0.3,-5.3,No info,No info,No info,2024-03-21,3
+5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Shirts,Sans Souci,-1,0.0,0.0,-32.99,-32.99,0.0,-1.98,-34.97,No info,No info,Red Bow Tie,2024-03-21,3
+5619390000000.0,17699900000000.0,#2179,Product,Point of Sale,No info,No info,No info,Coats & jackets,Inspired Fashion 40,-1,0.0,0.0,-94.0,-94.0,0.0,-5.64,-99.64,No info,Black,Ruffle,2024-03-21,3
+5666130000000.0,17706800000000.0,#2205,Product,Point of Sale,No info,No info,No info,Event,Inspired Fashion 40,-2,0.0,0.0,-45.0,-45.0,0.0,0.0,-45.0,No info,No info,No info,2024-03-22,3
+5658600000000.0,17891200000000.0,#2204,Unknown,Online Store,United States,North Carolina,Charlotte,No info,No info,0,0.0,0.0,-50.86,-50.86,0.0,0.0,-50.86,No info,No info,No info,2024-04-17,4
+5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,-1,0.0,0.0,-62.5,-62.5,0.0,-3.75,-66.25,No info,No info,Baroque,2024-05-03,5
+5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,1,0.0,0.0,62.5,62.5,0.0,3.75,66.25,No info,No info,Baroque,2024-05-03,5
+5667430000000.0,17992700000000.0,#2218,Product,Point of Sale,No info,No info,No info,Skirt suits,Inspired Fashion 40,-1,0.0,0.0,-62.5,-62.5,0.0,-3.75,-66.25,No info,No info,Baroque,2024-05-03,5
+5744900000000.0,18153900000000.0,#2225,Product,Point of Sale,No info,No info,No info,Event,No info,-2,0.0,0.0,-48.0,-48.0,0.0,-2.88,-50.88,No info,No info,No info,2024-05-29,5

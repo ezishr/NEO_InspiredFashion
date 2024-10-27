@@ -6,8 +6,6 @@
 ## Consider delete cols:
 - Billing country
 - Billing city
-- Shipping country
-- Shipping city
 - POS location? (what is it?)
 
 ## Needs to clean:

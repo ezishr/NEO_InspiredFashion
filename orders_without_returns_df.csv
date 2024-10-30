@@ -1,10 +1,10 @@
 Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping region,Shipping city,Product type,Product vendor,Net quantity,Gross sales,Discounts,Returns,Net sales,Shipping,Taxes,Total sales,size,color,style,date_sold,month
 5539800000000.0,17401000000000.0,#2069,Product,Point of Sale,No info,No info,No info,Jeans,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Brown,No info,2024-01-01,1
-5539800000000.0,17401000000000.0,#2070,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Black & White,No info,2024-01-01,1
-5539800000000.0,17401000000000.0,#2070,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Black,Halter,2024-01-01,1
+5539800000000.0,17401000000000.0,#2070,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Black & White,No info,2024-01-01,1
+5539800000000.0,17401000000000.0,#2070,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Black,Halter,2024-01-01,1
 5539970000000.0,17401500000000.0,#2071,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Brown & White,No info,2024-01-01,1
 5539970000000.0,17401500000000.0,#2071,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Blue,"With belt, wool",2024-01-01,1
-5541170000000.0,17404600000000.0,#2072,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,No info,No info,2024-01-02,1
+5541170000000.0,17404600000000.0,#2072,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,No info,No info,2024-01-02,1
 5541220000000.0,17404700000000.0,#2073,Product,Point of Sale,No info,No info,No info,Pants,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,No info,No info,2024-01-02,1
 5541420000000.0,17405300000000.0,#2074,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Red,No info,2024-01-02,1
 5541450000000.0,17405400000000.0,#2075,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Black,No info,2024-01-02,1
@@ -39,7 +39,7 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5548540000000.0,17423500000000.0,#2094,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Pink & Yellow,No info,2024-01-07,1
 5548560000000.0,17423500000000.0,#2095,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Brown,Sweater,2024-01-07,1
 5548690000000.0,17423900000000.0,#2096,Product,Point of Sale,No info,No info,No info,Pants,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Brown,No info,2024-01-07,1
-5548690000000.0,17423900000000.0,#2096,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Black,No info,2024-01-07,1
+5548690000000.0,17423900000000.0,#2096,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Black,No info,2024-01-07,1
 5548690000000.0,17423900000000.0,#2096,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Blue,"With belt, wool",2024-01-07,1
 5552040000000.0,17432300000000.0,#2097,Product,Online Store,United States,Ohio,Blue Ash,No info,Inspired Fashion 40,1,24.0,0.0,0.0,24.0,0.0,0.0,24.0,No info,No info,No info,2024-01-10,1
 5552040000000.0,17432300000000.0,#2097,Shipping,Online Store,United States,Ohio,Blue Ash,No info,No info,0,0.0,0.0,0.0,0.0,7.9,0.0,7.9,No info,No info,No info,2024-01-10,1
@@ -98,7 +98,7 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5556980000000.0,17444300000000.0,#2131,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Brown,Sweater,2024-01-13,1
 5556980000000.0,17444300000000.0,#2132,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,White Rose,No info,2024-01-13,1
 5561150000000.0,17454000000000.0,#2133,Product,Point of Sale,No info,No info,No info,Jeans,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Blue,Denim,2024-01-16,1
-5561170000000.0,17454000000000.0,#2134,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-01-16,1
+5561170000000.0,17454000000000.0,#2134,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-01-16,1
 5561170000000.0,17454000000000.0,#2134,Product,Point of Sale,No info,No info,No info,Skirts,No info,1,32.99,-6.6,0.0,26.39,0.0,1.58,27.97,No info,Brown,Pearl,2024-01-16,1
 5567040000000.0,17467900000000.0,#2135,Product,Point of Sale,No info,No info,No info,Jumpsuits & rompers,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Green,No info,2024-01-20,1
 5567070000000.0,17467900000000.0,#2136,Product,Point of Sale,No info,No info,No info,Blazers,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Pink white yellow,With metal ring,2024-01-20,1
@@ -118,7 +118,7 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5578270000000.0,17493500000000.0,#2139,Product,Point of Sale,No info,No info,No info,Jumpsuits & rompers,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Pink,No info,2024-01-27,1
 5578270000000.0,17493500000000.0,#2139,Product,Point of Sale,No info,No info,No info,Jumpsuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,White,No info,2024-01-27,1
 5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Blue,Wool,2024-01-27,1
-5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-01-27,1
+5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-01-27,1
 5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,No info,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,No info,No info,2024-01-27,1
 5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,Pants,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Green,Gold,2024-01-27,1
 5578600000000.0,17494300000000.0,#2140,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-01-27,1
@@ -156,7 +156,7 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5596420000000.0,17540500000000.0,#2163,Product,Point of Sale,No info,No info,No info,Pants,No info,1,55.0,0.0,0.0,55.0,0.0,3.3,58.3,No info,White,No info,2024-02-06,2
 5596480000000.0,17540700000000.0,#2164,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,No info,No info,2024-02-06,2
 5596480000000.0,17540700000000.0,#2164,Product,Point of Sale,No info,No info,No info,Jeans,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Pink,Swirl,2024-02-06,2
-5596480000000.0,17540700000000.0,#2164,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-02-06,2
+5596480000000.0,17540700000000.0,#2164,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Orange,No info,2024-02-06,2
 5598160000000.0,17544100000000.0,#2165,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,26.5,-26.5,0.0,0.0,0.0,0.0,0.0,No info,No info,No info,2024-02-07,2
 5599690000000.0,17547200000000.0,#2166,Product,Point of Sale,No info,No info,No info,Jeans,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Blue,With belt,2024-02-08,2
 5599690000000.0,17547200000000.0,#2166,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,No info,No info,2024-02-08,2
@@ -206,9 +206,9 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5624350000000.0,17603200000000.0,#2189,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,No info,No info,2024-02-24,2
 5624350000000.0,17603200000000.0,#2189,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,24.99,0.0,0.0,24.99,0.0,1.5,26.49,No info,No info,Jeweled,2024-02-24,2
 5624350000000.0,17603300000000.0,#2190,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,40.0,0.0,0.0,40.0,0.0,2.4,42.4,No info,No info,No info,2024-02-24,2
-5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Bodysuit,Inspired Fashion 40,1,32.99,-16.5,0.0,16.49,0.0,0.99,17.48,No info,Black,No info,2024-02-24,2
+5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Bodysuits,Inspired Fashion 40,1,32.99,-16.5,0.0,16.49,0.0,0.99,17.48,No info,Black,No info,2024-02-24,2
 5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Pants,Inspired Fashion 40,1,79.95,-39.98,0.0,39.97,0.0,2.4,42.37,No info,No info,Satin Wide Leg,2024-02-24,2
-5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Bodysuit,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Black,Shimmer,2024-02-24,2
+5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Bodysuits,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Black,Shimmer,2024-02-24,2
 5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,9.0,-4.0,0.0,5.0,0.0,0.3,5.3,No info,No info,No info,2024-02-24,2
 5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,40.0,0.0,0.0,40.0,0.0,2.4,42.4,No info,Black,No info,2024-02-24,2
 5624480000000.0,17603500000000.0,#2191,Product,Point of Sale,No info,No info,No info,Sale,Inspired Fashion 40,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,No info,No info,2024-02-24,2

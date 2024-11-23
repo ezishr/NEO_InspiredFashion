@@ -75,11 +75,11 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5556620000000.0,17443400000000.0,#2115,Product,Point of Sale,No info,No info,No info,Coats & jackets,No info,1,95.0,0.0,0.0,95.0,0.0,5.7,100.7,No info,Pink,No info,2024-01-13,1
 5556620000000.0,17443400000000.0,#2116,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,No info,Green,No info,2024-01-13,1
 5556630000000.0,17443400000000.0,#2117,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,No info,Gray,No info,2024-01-13,1
-5556660000000.0,17443500000000.0,#2118,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,L,Black,Pearl,2024-01-13,1
+5556660000000.0,17443500000000.0,#2118,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,L,Black,Pearl,2024-01-13,1
 5556680000000.0,17443600000000.0,#2119,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,No info,No info,No info,2024-01-13,1
 5556700000000.0,17443600000000.0,#2120,Product,Point of Sale,No info,No info,No info,Coats & jackets,No info,1,37.5,0.0,0.0,37.5,0.0,2.25,39.75,No info,Cream,Leater,2024-01-13,1
 5556700000000.0,17443600000000.0,#2120,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,37.5,0.0,0.0,37.5,0.0,2.25,39.75,M,Cream,Leather,2024-01-13,1
-5556710000000.0,17443600000000.0,#2121,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,XL,Blue,Pear,2024-01-13,1
+5556710000000.0,17443600000000.0,#2121,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,XL,Blue,Pear,2024-01-13,1
 5556710000000.0,17443600000000.0,#2121,Product,Point of Sale,No info,No info,No info,Skirts,No info,1,42.5,0.0,0.0,42.5,0.0,2.55,45.05,XL,Pink,No info,2024-01-13,1
 5556730000000.0,17443700000000.0,#2122,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,No info,No info,Pearl,2024-01-13,1
 5556730000000.0,17443700000000.0,#2122,Product,Point of Sale,No info,No info,No info,Dresses,Inspired Fashion 40,1,89.99,0.0,0.0,89.99,0.0,5.4,95.39,No info,No info,Puffy Sleeve Shift,2024-01-13,1
@@ -87,12 +87,12 @@ Order ID,Sale ID,Order,Transaction type,Sales channel,Shipping country,Shipping 
 5556750000000.0,17443700000000.0,#2123,Product,Point of Sale,No info,No info,No info,No info,Mulla,1,20.0,-0.92,0.0,19.08,0.0,1.14,20.22,No info,Black,Organza Flower Brooch,2024-01-13,1
 5556760000000.0,17443800000000.0,#2124,Product,Point of Sale,No info,No info,No info,Skirt suits,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Blue,No info,2024-01-13,1
 5556760000000.0,17443800000000.0,#2124,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,95.0,0.0,0.0,95.0,0.0,5.7,100.7,No info,Black,Flare Sleeve,2024-01-13,1
-5556770000000.0,17443800000000.0,#2125,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,XL,Black,Pearl,2024-01-13,1
-5556780000000.0,17443800000000.0,#2126,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,M,Blue,Pearl,2024-01-13,1
-5556790000000.0,17443800000000.0,#2127,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,S,Black,Pearl,2024-01-13,1
+5556770000000.0,17443800000000.0,#2125,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,XL,Black,Pearl,2024-01-13,1
+5556780000000.0,17443800000000.0,#2126,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,M,Blue,Pearl,2024-01-13,1
+5556790000000.0,17443800000000.0,#2127,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,19.08,0.0,0.0,19.08,0.0,1.14,20.22,S,Black,Pearl,2024-01-13,1
 5556810000000.0,17443900000000.0,#2128,Product,Point of Sale,No info,No info,No info,Accessories,Inspired Fashion 40,1,24.99,-5.91,0.0,19.08,0.0,1.14,20.22,No info,Cream,Flower Tassel,2024-01-13,1
 5556860000000.0,17444000000000.0,#2129,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Blue & Green & White,No info,2024-01-13,1
-5556860000000.0,17444000000000.0,#2129,Product,Point of Sale,No info,No info,No info,Shirts & top,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Blue,Sweater,2024-01-13,1
+5556860000000.0,17444000000000.0,#2129,Product,Point of Sale,No info,No info,No info,Shirts & tops,No info,1,5.0,0.0,0.0,5.0,0.0,0.3,5.3,No info,Blue,Sweater,2024-01-13,1
 5556960000000.0,17444200000000.0,#2130,Product,Point of Sale,No info,No info,No info,Accessories,No info,1,24.0,0.0,0.0,24.0,0.0,1.44,25.44,No info,Silver,R&J,2024-01-13,1
 5556980000000.0,17444300000000.0,#2131,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,9.0,0.0,0.0,9.0,0.0,0.54,9.54,No info,Pink,Lace,2024-01-13,1
 5556980000000.0,17444300000000.0,#2131,Product,Point of Sale,No info,No info,No info,Dresses,No info,1,7.0,0.0,0.0,7.0,0.0,0.42,7.42,No info,Brown,Sweater,2024-01-13,1
